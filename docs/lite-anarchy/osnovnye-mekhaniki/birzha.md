@@ -21,15 +21,13 @@
 - Курс обмена (автоматический или пользовательский)
 - Общая стоимость сделки в коинах
 
-![Демонстрация изменения курса](/docs/lite-anarchy/osnovnye-mekhaniki/assets/birzha2.jpg) ![Демонстрация изменения курса](/docs/lite-anarchy/osnovnye-mekhaniki/assets/birzha23.jpg)
+![Демонстрация изменения курса](/docs/lite-anarchy/osnovnye-mekhaniki/assets/birzha2.png) ![Демонстрация изменения курса](/docs/lite-anarchy/osnovnye-mekhaniki/assets/birzha3.png)
 
 ## Управление активными заявками
 
 ### Просмотр заявок
 
 Игроки могут просматривать список своих активных заявок на продажу монет через соответствующий раздел биржи.
-
-![Демонстрация просмотра заявок](/docs/lite-anarchy/osnovnye-mekhaniki/assets/birzha3.jpg)
 
 ### Отмена заявок
 
@@ -40,6 +38,8 @@
 ### Выбор предложений
 
 Покупатели могут просматривать все доступные заявки на продажу и выбирать наиболее подходящие по курсу и объему.
+
+![Демонстрация заявок для покупки](/docs/lite-anarchy/osnovnye-mekhaniki/assets/birzha1.png)
 
 ### Варианты покупки
 
