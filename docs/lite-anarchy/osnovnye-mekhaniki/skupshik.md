@@ -10,7 +10,7 @@
 - **Монеты** — основная игровая валюта
 - **Очки скупщика** — используются для покупок в магазине скупщика и увеличения коэффициента
 
-<img src="/docs/lite-anarchy/osnovnye-mekhaniki/assets/magazin.png" alt="Демонстрация магазина скупщика и очков" width="75%">
+<img src="/docs/lite-anarchy/osnovnye-mekhaniki/assets/magazin.png" alt="Демонстрация магазина скупщика и очков" width="100%">
 
 ## Система множителей
 
