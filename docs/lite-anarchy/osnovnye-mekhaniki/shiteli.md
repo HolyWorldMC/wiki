@@ -36,6 +36,8 @@
 - Конвертируется в стандартные изумруды в соотношении 9:1
 - Можно крафтить в верстаке: 9 единиц пыли = 1 изумруд
 
+<img src="/docs/lite-anarchy/osnovnye-mekhaniki/assets/shiteli.png" alt="Демонстрация изумрудовой пыли" width="50%"> <img src="/docs/lite-anarchy/osnovnye-mekhaniki/assets/shiteli1.png" alt="Демонстрация изумрудовой пыли" width="50%">      
+
 ### Способы получения
 
 | Источник | Описание |
