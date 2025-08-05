@@ -21,7 +21,7 @@
 - Курс обмена (автоматический или пользовательский)
 - Общая стоимость сделки в коинах
 
-<img src="/docs/lite-anarchy/osnovnye-mekhaniki/assets/birzha2.png" alt="Демонстрация изменения курса" width="50%"> <img src="/docs/lite-anarchy/osnovnye-mekhaniki/assets/birzha3.png" alt="Демонстрация изменения курса" width="50%">
+<img src="/docs/lite-anarchy/osnovnye-mekhaniki/assets/birzha.png" alt="Демонстрация изменения курса" width="100%">
 
 ## Управление активными заявками
 
@@ -39,7 +39,7 @@
 
 Покупатели могут просматривать все доступные заявки на продажу и выбирать наиболее подходящие по курсу и объему.
 
-<img src="/docs/lite-anarchy/osnovnye-mekhaniki/assets/birzha1.png" alt="Демонстрация заявок для покупки" width="50%">
+<img src="/docs/lite-anarchy/osnovnye-mekhaniki/assets/birzha1.png" alt="Демонстрация заявок для покупки" width="100%">
 
 ### Варианты покупки
 
