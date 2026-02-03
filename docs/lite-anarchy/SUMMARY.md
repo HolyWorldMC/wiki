@@ -1,70 +1,68 @@
 # Table of contents
 
-## Введение
+* [💡 О проекте](README.md)
 
-- [Краткое описание](README.md)
+## Деньги и торговля <a href="#money_and_trade" id="money_and_trade"></a>
 
-## Деньги и торговля
+* [💰 Скупщик](money_and_trade/buyer.md)
+* [🔨 Аукцион](money_and_trade/auction.md)
+* [📈 Инвестиции](money_and_trade/invest.md)
+* [🛒 Жители](money_and_trade/villagers.md)
+* [📊 Биржа](money_and_trade/exchange.md)
 
-- [Скупщик](osnovnye-mekhaniki/skupshik.md)
-- [Биржа](osnovnye-mekhaniki/birzha.md)
-- [Инвестиции](osnovnye-mekhaniki/investicii.md)
-- [Жители](osnovnye-mekhaniki/shiteli.md)
+## Фарм и добыча <a href="#farming_and_mining" id="farming_and_mining"></a>
 
-## Фарм и добыча
+* [Автошахта](farming_and_mining/avtoshakhta.md)
+* [Хранитель опыта](farming_and_mining/khranitel-opyta.md)
+* [Зачарования](farming_and_mining/zacharovaniya.md)
+* [Уникальный шалкер](farming_and_mining/unikalnyi-shalker.md)
+* [Сокровищницы](farming_and_mining/sokrovishnici.md)
 
-- [Автошахта](osnovnye-mekhaniki/avtoshakhta.md)
-- [Хранитель опыта (/expkeeper)](osnovnye-mekhaniki/khranitel-opyta.md)
-- [Зачарования](osnovnye-mekhaniki/zacharovaniya.md)
+## Приваты и взрывчатки <a href="#privates_and_explosives" id="privates_and_explosives"></a>
 
-## Приваты и взрывчатки
+* [Регионы](privates_and_explosives/regiony.md)
+* [Прокачка привата](privates_and_explosives/prokachka-privata.md)
+* [Динамит](privates_and_explosives/vzryvchatki.md)
+* [Рейд блок](privates_and_explosives/reid-blok.md)
 
-- [Регионы](osnovnye-mekhaniki/regiony.md)
-- [Кастомный динамит](osnovnye-mekhaniki/vzryvchatki.md)
+## Предметы <a href="#items" id="items"></a>
+
+* [Кастомные предметы](items/custom-predmeti.md)
+* [Рюкзак](items/ryukzak.md)
+* [Сферы и Талисманы](items/sferi-i-talismani.md)
+* [Осколочные яйца](items/oskolok-iaitsa.md)
 
 ## ПВП
 
-- [Пвп дуэли](osnovnye-mekhaniki/pvp-duel.md)
-- [PvP Анархия](osnovnye-mekhaniki/pvp-anarchy.md)
-- [Сферы и Талисманы](osnovnye-mekhaniki/sferi-i-talismani.md)
+* [Кланы](pvp/clan.md)
+* [Дуэли](osnovnye-mekhaniki/pvp-duel.md)
 
-## Прокачка
+## Прокачка <a href="#upgrade" id="upgrade"></a>
 
-- [Боевой пропуск](osnovnye-mekhaniki/boevoy-propusk.md)
-- [Осколочные яйца](osnovnye-mekhaniki/oskolok-iaitsa.md)
-- [Титулы](osnovnye-mekhaniki/tituli.md)
+* [Ежедневные задания](upgrade/ezhednevnye-zadaniya.md)
+* [Боевой пропуск](upgrade/boevoy-propusk.md)
+* [Квестовик](upgrade/kvestovik.md)
 
-## Кланы и персонализация
+## Ивенты <a href="#events" id="events"></a>
 
-- [Кланы](osnovnye-mekhaniki/clan.md)
-- [Персонализация (/custom)](osnovnye-mekhaniki/personalizatsia-custom.md)
+* [Захват Энда](events/zahvat-enda.md)
+* [Замок с бункером](events/zamok-nuli.md)
+* [Временные ивенты](events/vremennye-iventy.md)
+* [Боссы](events/boss.md)
+* [Голосование за ивенты](events/golosovanie.md)
+* [Груз](events/gruz.md)
+* [Цветочная поляна](events/polyana.md)
+* [Золотая лихорадка](events/zolotaya-lihoradka.md)
+* [Посылка](events/posilka.md)
+* [Таинственный корабль](events/tainstveni-korabl.md)
+* [Опытный Тыпо](events/opinti-tupo.md)
+* [Трофейная охота](events/hunt.md)
+* [Смертельная шахта](events/smertelnaya-shahta.md)
+* [Контейнер](events/container.md)
 
-## Предметы
+## Персонализация <a href="#personalize" id="personalize"></a>
 
-- [Кастомные предметы](osnovnye-mekhaniki/custom-predmeti.md)
-- [Рюкзак](osnovnye-mekhaniki/ryukzak.md)
-
-## Исследование мира
-
-- [Уникальные данжи](osnovnye-mekhaniki/uniq-dunge.md)
-- [Сокровищницы](osnovnye-mekhaniki/sokrovishnici.md)
-- [Захват Энда](osnovnye-mekhaniki/zahvat-enda.md)
-
-## Ивенты
-
-- [Голосование за ивенты](osnovnye-mekhaniki/golosovanie.md)
-- [Груз](osnovnye-mekhaniki/gruz.md)
-- [Цветочная поляна](osnovnye-mekhaniki/polyana.md)
-- [Золотая лихорадка](osnovnye-mekhaniki/zolotaya-lihoradka.md)
-- [Замок на нулевых координатах](osnovnye-mekhaniki/zamok-nuli.md)
-- [Посылка](osnovnye-mekhaniki/posilka.md)
-- [Таинственный корабль](osnovnye-mekhaniki/tainstveni-korabl.md)
-- [Уникальные боссы](osnovnye-mekhaniki/boss.md)
-- [Опытный Тыпо](osnovnye-mekhaniki/opinti-tupo.md)
-- [Трофейная охота](osnovnye-mekhaniki/hunt.md)
-- [Смертельная шахта](osnovnye-mekhaniki/smertelnaya-shahta.md)
-- [Контейнер](osnovnye-mekhaniki/container.md)
-
-## Донат
-
-- [Премиум статус](osnovnye-mekhaniki/premium-status.md)
+* [Титулы](personalize/tituli.md)
+* [Кастомизация](personalize/personalizatsia-custom.md)
+* [Сапфиры и коины](personalize/sapfiry-i-koiny.md)
+* [Премиум статус](personalize/premium-status.md)
