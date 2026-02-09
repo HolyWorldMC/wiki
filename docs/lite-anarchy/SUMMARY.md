@@ -16,7 +16,7 @@
   * [❔ Квестовик автошахты](farming_and_mining/mine/quest_mine.md)
 * [Хранитель опыта](farming_and_mining/khranitel-opyta.md)
 * [Зачарования](farming_and_mining/zacharovaniya.md)
-* [Уникальный шалкер](farming_and_mining/unikalnyi-shalker.md)
+* [📦 Уникальный шалкер](farming_and_mining/unique.md)
 * [Сокровищницы](farming_and_mining/sokrovishnici.md)
 
 ## Приваты и взрывчатки <a href="#privates_and_explosives" id="privates_and_explosives"></a>
