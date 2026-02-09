@@ -40,6 +40,7 @@
 
 ## Прокачка <a href="#upgrade" id="upgrade"></a>
 
+* [♻️ Улучшение предметов](upgrade/create.md)
 * [Ежедневные задания](upgrade/ezhednevnye-zadaniya.md)
 * [Боевой пропуск](upgrade/boevoy-propusk.md)
 
