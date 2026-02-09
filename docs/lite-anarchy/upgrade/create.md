@@ -46,11 +46,9 @@
 
 <summary>Этапы улучшения Инструментов</summary>
 
-* Инструмент Griefer ⭢ Инструмент Mustang ⭢ Инструмент Ghast ⭢ Инструмент Wither ⭢ Инструмент Kraken ⭢ Инструмент Kraken ⭢ Инструмент Stinger ⭢ Инструмент Eternity.
-
-{% hint style="info" %}
-Любой инструмент: кирка, топор и лопата, можно улучшить.
-{% endhint %}
+* Кирка Griefer ⭢ Кирка Mustang ⭢ Кирка Ghast ⭢ Кирка Wither ⭢ Кирка Kraken ⭢ Кирка Kraken ⭢ Кирка Stinger ⭢ Кирка Eternity.
+* Топор Griefer ⭢ Топор Mustang ⭢ Топор Ghast ⭢ Топор Wither ⭢ Топор Kraken ⭢ Топор Kraken ⭢ Топор Stinger ⭢ Топор Eternity.
+* Топор Griefer ⭢ Топор Mustang ⭢ Топор Ghast ⭢ Топор Wither ⭢ Топор Kraken ⭢ Топор Kraken ⭢ Топор Stinger ⭢ Топор Eternity.
 
 </details>
 
