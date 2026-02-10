@@ -21,8 +21,7 @@
 
 ## Приваты и взрывчатки <a href="#privates_and_explosives" id="privates_and_explosives"></a>
 
-* [Регионы](privates_and_explosives/regiony.md)
-* [Прокачка привата](privates_and_explosives/prokachka-privata.md)
+* [🗺️ Приваты](privates_and_explosives/region.md)
 * [Динамит](privates_and_explosives/vzryvchatki.md)
 * [Рейд блок](privates_and_explosives/reid-blok.md)
 
