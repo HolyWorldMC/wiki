@@ -31,7 +31,7 @@ layout:
 Лайт Анархия — это упрощенная Анархия, но с захватывающим развитием и увлекательным процессом. Здесь можно полностью уничтожать регионы, получать невозможные зачарования, приобретать донат с топовым набором и соревноваться с лучшими игроками.
 {% endhint %}
 
-<table><thead><tr><th width="202"></th><th></th></tr></thead><tbody><tr><td>Айпи адрес</td><td><kbd>lite.holyworld.ru</kbd> (Для игроков из России)<br><kbd>lite.holyworld.me</kbd> (Для игроков из других стран)</td></tr><tr><td>Версия игры</td><td>1.16.5-1.21.8</td></tr></tbody></table>
+<table><thead><tr><th width="202"></th><th></th></tr></thead><tbody><tr><td>Айпи адрес (IP)</td><td><kbd>lite.holyworld.ru</kbd> (Для игроков из России)<br><kbd>lite.holyworld.me</kbd> (Для игроков из других стран)</td></tr><tr><td>Версия игры</td><td>1.16.5-1.21.8</td></tr></tbody></table>
 
 ## Типы серверов
 
