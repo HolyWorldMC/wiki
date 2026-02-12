@@ -1,6 +1,6 @@
 # Table of contents
 
-* [💡 О проекте](README.md)
+* [🏠 О режиме Лайт Анархия](README.md)
 
 ## Деньги и торговля <a href="#money_and_trade" id="money_and_trade"></a>
 
