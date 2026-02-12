@@ -57,8 +57,8 @@ layout:
 
 ## Ссылки на соцсети
 
-<a href="https://vk.com/holylite" class="button primary" data-icon="vk">Открыть ВКонтакте</a>Группа ВКонтакте с новостями режима: [vk.com/holylite](https://vk.com/holylite)
+* Группа ВКонтакте с новостями режима: [vk.com/holylite](https://vk.com/holylite)
+* Телеграм-канал Лайт Анархии с всеми новостями: [t.me/hwlite](https://t.me/hwlite)
+* Официальный сайт где можно приобрести донат: [holyworld.me](https://holyworld.me/)
 
-<a href="https://t.me/hwlite" class="button primary" data-icon="telegram">Открыть Телеграм</a>Телеграм-канал Лайт Анархии с всеми новостями [t.me/hwlite](https://t.me/hwlite)
-
-<a href="https://holyworld.me/" class="button primary" data-icon="globe-pointer">Открыть сайт</a> Официальный сайт где можно приобрести донат [holyworld.me/](https://holyworld.me/)
+<a href="https://vk.com/holylite" class="button primary" data-icon="vk">Открыть ВКонтакте</a><a href="https://t.me/hwlite" class="button primary" data-icon="telegram">Открыть Телеграм</a><a href="https://holyworld.me/" class="button primary" data-icon="globe-pointer">Открыть сайт</a>
