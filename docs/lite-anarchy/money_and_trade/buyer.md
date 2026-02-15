@@ -8,7 +8,7 @@
 
 ## Как продавать ресурсы
 
-<figure><img src="../.gitbook/assets/buyer-buy.png" alt=""><figcaption></figcaption></figure>
+<div data-full-width="false" data-with-frame="true"><figure><img src="../.gitbook/assets/buyer-buy.png" alt=""><figcaption></figcaption></figure></div>
 
 Ресурсы можно продать в главном меню скупщика `/buyer`. Просто переместите предметы, которые хотите продать, в любой слот меню. Затем нажмите кнопку продажи в правом нижнем углу. После этого вы получите монеты и очки скупщика.
 

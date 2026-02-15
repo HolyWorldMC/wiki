@@ -12,8 +12,7 @@
 
 ## Фарм и добыча <a href="#farming_and_mining" id="farming_and_mining"></a>
 
-* [⛏️ Автошахта](farming_and_mining/mine/README.md)
-  * [❔ Квестовик автошахты](farming_and_mining/mine/quest_mine.md)
+* [⛏️ Автошахта](farming_and_mining/mine.md)
 * [Хранитель опыта](farming_and_mining/khranitel-opyta.md)
 * [Зачарования](farming_and_mining/zacharovaniya.md)
 * [📦 Уникальный шалкер](farming_and_mining/unique.md)
@@ -42,6 +41,7 @@
 * [♻️ Улучшение предметов](upgrade/create.md)
 * [Ежедневные задания](upgrade/ezhednevnye-zadaniya.md)
 * [Боевой пропуск](upgrade/boevoy-propusk.md)
+* [Квестовик автошахты](upgrade/quest_mine.md)
 
 ## Ивенты <a href="#events" id="events"></a>
 

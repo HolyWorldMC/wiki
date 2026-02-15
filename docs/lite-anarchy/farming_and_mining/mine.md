@@ -64,7 +64,7 @@
 
 ### Ускорить обновление шахт через Инвестицию
 
-<figure><img src="../../.gitbook/assets/mine-invest.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/mine-invest.png" alt=""><figcaption></figcaption></figure>
 
 Имея достаточно монеток, вы можете пожертвовать их в инвестицию «Автошахта» при помощи команды `/invest`. Данный множитель действует на всех игроков режима до конца вайпа.
 
@@ -78,7 +78,7 @@
 
 ### Принудительное обновление шахта
 
-<figure><img src="../../.gitbook/assets/mine-update.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/mine-update.png" alt=""><figcaption></figcaption></figure>
 
 Каждую шахту можно обновить за сапфиры и выбрать определенной уровень редкости.
 
