@@ -8,13 +8,13 @@
 
 ## Как открыть биржу
 
-<figure><img src="../.gitbook/assets/exchange-menu.png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/exchange-menu.png" alt=""><figcaption></figcaption></figure></div>
 
 Меню биржи доступно по команде `/exchange`.
 
 ## Как обменять коины на монетки
 
-<figure><img src="../.gitbook/assets/exchange-coins-to-money.png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/exchange-coins-to-money.png" alt=""><figcaption></figcaption></figure></div>
 
 Обменять коины на монетки можно в главном меню биржи `/exchange`. Выберите желаемую заявку и нажмите по иконке заявки. Вы можете выкупить как все сразу монетки, так и выкупить только часть монеток.
 
@@ -24,6 +24,6 @@
 
 ## Как обменять монетки на коины
 
-<figure><img src="../.gitbook/assets/exchange-money-to-coins (1).png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/exchange-money-to-coins (1).png" alt=""><figcaption></figcaption></figure></div>
 
 Обменять монетки на коины можно в главном меню биржи `/exchange`. Для этого нужно создать заявку на продажу монет, нажав на специальную иконку в меню. У вас откроется меню с выбором, сколько вы хотите получить коинов.

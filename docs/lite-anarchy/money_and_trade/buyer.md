@@ -131,7 +131,7 @@
 
 ## Авто-скупщик
 
-<figure><img src="../.gitbook/assets/buyer-auto (1).png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/buyer-auto (1).png" alt=""><figcaption></figcaption></figure></div>
 
 Меню авто-скупщика доступно по команде `/buyer auto`, а также в главном меню скупщика.
 
@@ -152,9 +152,7 @@
 
 ### Бустер Скупщика
 
-
-
-<figure><img src="../.gitbook/assets/buyer-booster.png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/buyer-booster.png" alt=""><figcaption></figcaption></figure></div>
 
 Имея при себе достаточно Сапфиров, вы можете улучшить свой бустер Скупщика в Премиум-магазине при помощи команды `/boosters`.
 
@@ -194,7 +192,7 @@
 
 ### «Ульта Скупщика»
 
-<figure><img src="../.gitbook/assets/buyer-ulta.png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/buyer-ulta.png" alt=""><figcaption></figcaption></figure></div>
 
 Имея достаточно накопленных очков скупщика, вы можете активировать за них «Ульту Скупщика» сроком на 1 час в магазине Скупщика `/buyer shop`. Вы будете получать на 10% больше с продажи ресурсов.
 
@@ -206,7 +204,7 @@
 
 ### Через инвестиции
 
-<figure><img src="../.gitbook/assets/buyer-invest.png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/buyer-invest.png" alt=""><figcaption></figcaption></figure></div>
 
 Имея достаточно монеток, вы можете пожертвовать их в инвестицию «Товар скупщика» при помощи команды `/invest`. Данный множитель действует на всех игроков режима до конца вайпа.
 
@@ -220,7 +218,7 @@
 
 ### За Боевые фрагменты или Универсальный ключ
 
-<figure><img src="../.gitbook/assets/buyer-uniq.png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/buyer-uniq.png" alt=""><figcaption></figcaption></figure></div>
 
 Имея у себя боевые фрагменты или универсальный ключ, вы можете повысить локальный бонус, стоимость одного случайного предмета у скупщика, в меню авто-скупщика /buyer auto на нижней строчке.
 
@@ -232,7 +230,7 @@
 
 ## Магазин Скупщика
 
-<figure><img src="../.gitbook/assets/buyer-shop.png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/buyer-shop.png" alt=""><figcaption></figcaption></figure></div>
 
 
 

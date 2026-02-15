@@ -29,7 +29,7 @@
 
 ### Магазин эффектов
 
-<figure><img src="../.gitbook/assets/region-shop.png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/region-shop.png" alt=""><figcaption></figcaption></figure></div>
 
 Имея достаточно уровней опыта или сапфиров, вы можете купить эффекты, которые будут действовать на территории вашего привата. Чтобы открыть магазин эффектов, нажмите правой кнопкой мыши по вашему блоку привата.
 
@@ -55,7 +55,7 @@
 
 У каждого привата есть своя прочность. Обычные приваты выдерживают один обычный динамит, а Защищенный и Уникальный приваты ломаются только от С4 или Разрывной волны.
 
-<figure><img src="../.gitbook/assets/region-upgrade.png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/region-upgrade.png" alt=""><figcaption></figcaption></figure></div>
 
 Если у вас достаточно незеритовых слитков, вы можете увеличить прочность вашего приватного блока. Чтобы открыть меню улучшения, подойдите к вашему блоку привата и введите команду `/ps upgrade`.
 

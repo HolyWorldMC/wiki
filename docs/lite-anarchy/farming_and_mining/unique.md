@@ -8,7 +8,7 @@
 
 ## Как открыть уникальный шалкер
 
-<figure><img src="../.gitbook/assets/unique-main.png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/unique-main.png" alt=""><figcaption></figcaption></figure></div>
 
 Чтобы открыть уникальный шалкер, вам необходимо иметь хотя бы один универсальный ключ. Нажмите универсальным ключом по шалкеру, тогда он откроется только для вас.
 

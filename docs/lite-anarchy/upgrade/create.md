@@ -8,7 +8,7 @@
 
 ## Как работает улучшение
 
-<figure><img src="../.gitbook/assets/create-upgrade.png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/create-upgrade.png" alt=""><figcaption></figcaption></figure></div>
 
 Имея достаточно много Боевых фрагментов, вы можете улучшить почти любой предмет, который у вас есть. В открытом меню улучшений `/create` положите желаемый предмет для улучшения в специальный слот. Далее, если у вас достаточно боевых фрагментов, подтвердите свою попытку на улучшение.
 

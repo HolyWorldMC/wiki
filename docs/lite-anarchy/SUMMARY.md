@@ -43,13 +43,13 @@
 * [Боевой пропуск](upgrade/boevoy-propusk.md)
 * [Квестовик автошахты](upgrade/quest_mine.md)
 
-## Ивенты <a href="#events" id="events"></a>
+## Мероприятия <a href="#events" id="events"></a>
 
+* [🗓️ Ивенты](events/event.md)
+* [Голосование за ивенты](events/golosovanie.md)
 * [Захват Энда](events/zahvat-enda.md)
 * [Замок с бункером](events/zamok-nuli.md)
-* [Временные ивенты](events/vremennye-iventy.md)
 * [Боссы](events/boss.md)
-* [Голосование за ивенты](events/golosovanie.md)
 * [Груз](events/gruz.md)
 * [Цветочная поляна](events/polyana.md)
 * [Золотая лихорадка](events/zolotaya-lihoradka.md)

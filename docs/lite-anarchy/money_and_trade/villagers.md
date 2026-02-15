@@ -41,13 +41,13 @@
 
 ## Изумрудовая пыль
 
-<figure><img src="../.gitbook/assets/villagers-dust.png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/villagers-dust.png" alt=""><figcaption></figcaption></figure></div>
 
 При торговле с жителями, которым изменили свои предметы, вы увидите новую валюту — Изумрудовую пыль. С её помощью можно продолжать торговлю и получать уникальные вещи.
 
 ### Создание изумрудовой пыли
 
-<figure><img src="../.gitbook/assets/villagers-dust-to-emerald.png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/villagers-dust-to-emerald.png" alt=""><figcaption></figcaption></figure></div>
 
 Чтобы создать Изумрудовую пыль, положите один изумруд в верстак. Вы получите девять единиц Изумрудовой пыли. Если вам нужно вернуть изумруд, просто разместите девять единиц Изумрудовой пыли в верстаке.
 

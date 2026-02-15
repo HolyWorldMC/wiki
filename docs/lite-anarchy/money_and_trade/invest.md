@@ -4,13 +4,13 @@
 
 ## Как открыть инвестиции
 
-<figure><img src="../.gitbook/assets/invest-menu.png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/invest-menu.png" alt=""><figcaption></figcaption></figure></div>
 
 Меню инвестиций доступно только по команде `/invest`.
 
 ## Как улучшать инвестиции
 
-<figure><img src="../.gitbook/assets/invest-icon.png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/invest-icon.png" alt=""><figcaption></figcaption></figure></div>
 
 Имея при себе достаточно монеток, вы можете вложить их в абсолютно любую инвестицию. Сначала выберите, в какую инвестицию вы хотите вложить монетки через меню инвестиций `/invest`, далее просто нажмите на кнопку желаемой инвестиции.
 
