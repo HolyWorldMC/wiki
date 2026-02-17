@@ -22,7 +22,7 @@
 
 #### Ценность яиц дракона
 
-<figure><img src="../.gitbook/assets/end-egg.png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/end-egg.png" alt=""><figcaption></figcaption></figure></div>
 
 Ценность яйца дракона вырастает каждые три минуты на 1 Сапфир, если вы храните его в сундуке у себя на базе. Но будьте внимательны, все яйца дракона отображаются вместе с координатами сундука в топе `/warp top.`
 

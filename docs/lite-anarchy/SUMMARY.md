@@ -46,7 +46,7 @@
 ## Мероприятия <a href="#events" id="events"></a>
 
 * [🗓️ Ивенты](events/event.md)
-* [🌠 Захват Энда](events/end.md)
+* [🌠 Захват Энда](events/zahvat-enda.md)
 * [Замок с бункером](events/zamok-nuli.md)
 * [Боссы](events/boss.md)
 * [Голосование за ивенты](events/golosovanie.md)
