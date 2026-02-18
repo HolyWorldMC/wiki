@@ -68,7 +68,3 @@
 * [Кастомизация](personalize/personalizatsia-custom.md)
 * [Сапфиры и коины](personalize/sapfiry-i-koiny.md)
 * [Премиум статус](personalize/premium-status.md)
-
-***
-
-* [Telegram: View @hwlite](telegram-view-hwlite.md)
