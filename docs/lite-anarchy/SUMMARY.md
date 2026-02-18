@@ -1,7 +1,7 @@
 # Table of contents
 
 * [🏠 О режиме Лайт Анархия](README.md)
-* [⁉️ FAQ](faq.md)
+* [⁉️ Часто задаваемые вопросы](faq.md)
 * [📑 Архив вопросов](archive.md)
 
 ## Деньги и торговля <a href="#money_and_trade" id="money_and_trade"></a>
