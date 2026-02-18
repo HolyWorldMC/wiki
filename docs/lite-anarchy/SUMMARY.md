@@ -47,7 +47,7 @@
 
 * [🗓️ Ивенты](events/event.md)
 * [🌠 Захват Энда](events/zahvat-enda.md)
-* [Замок с бункером](events/zamok-nuli.md)
+* [🏰 Замок с бункером](events/castle.md)
 * [Боссы](events/boss.md)
 * [Голосование за ивенты](events/golosovanie.md)
 * [Груз](events/gruz.md)
