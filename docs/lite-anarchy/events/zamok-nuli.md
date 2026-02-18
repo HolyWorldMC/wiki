@@ -4,7 +4,7 @@
 
 ## Где находится замок
 
-<figure><img src="../.gitbook/assets/castle-zamok.png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/castle-zamok.png" alt=""><figcaption></figcaption></figure></div>
 
 Замок всегда расположен на координатах x:0, z:0 на каждой анархии в течение всего вайпа. Любой игрок может добраться до него.
 
