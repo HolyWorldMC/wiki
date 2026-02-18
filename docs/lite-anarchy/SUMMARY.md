@@ -2,6 +2,7 @@
 
 * [🏠 О режиме Лайт Анархия](README.md)
 * [⁉️ FAQ](faq.md)
+* [📑 Архив вопросов](archive.md)
 
 ## Деньги и торговля <a href="#money_and_trade" id="money_and_trade"></a>
 
@@ -67,7 +68,3 @@
 * [Кастомизация](personalize/personalizatsia-custom.md)
 * [Сапфиры и коины](personalize/sapfiry-i-koiny.md)
 * [Премиум статус](personalize/premium-status.md)
-
-***
-
-* [📑 Архив вопросов](arkhiv-voprosov.md)
