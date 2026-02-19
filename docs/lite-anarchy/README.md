@@ -35,7 +35,7 @@ layout:
 
 ## Типы серверов
 
-<figure><img src=".gitbook/assets/lite-select.png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src=".gitbook/assets/lite-select.png" alt=""><figcaption><p>Кнопка, чтобы зайти на одну из Лайт анарахий</p></figcaption></figure></div>
 
 Режим Лайт Анархия включает в себя более чем 65 доступных серверов для игры, а чтобы сбалансировать как одиночную, так и командную игру, сервера поделены на типы:
 
