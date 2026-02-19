@@ -4,7 +4,7 @@
 
 ## Как открыть аукцион
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/ah-menu.png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/ah-menu.png" alt=""><figcaption><p>Главное меню Аукциона /ah</p></figcaption></figure></div>
 
 Меню аукциона доступно по команде `/ah` или `/auc`.
 
@@ -12,13 +12,13 @@
 
 ### Покупка в режиме: Торги
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/ah-buy-torgi.png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/ah-buy-torgi.png" alt=""><figcaption><p>Пример, как выглядит товар на Аукционе в режиме торгов «Торги»</p></figcaption></figure></div>
 
 Чтобы приобрести предмет в режиме торгов «Торги», сначала выберите желаемый лот в меню аукциона `/ah`, при этом выбрав режим торгов «Торги». Нажмите на иконку вашего лота. Если у вас достаточно монеток, покупка будет успешной.
 
 ### Покупка в режиме: Ставки
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/ah-buy-stafki.png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/ah-buy-stafki.png" alt=""><figcaption><p>Кнопка в режиме торгов «Ставки», для повышения цены за лот</p></figcaption></figure></div>
 
 Чтобы приобрести предмет в режиме торгов «Ставки», сначала выберите желаемый лот в меню аукциона `/ah`, при этом выбрав режим торгов «Ставки». Нажмите на иконку вашего лота. Далее у вас откроется меню просмотра лота, где вам необходимо перебить ставку на этот лот. Если вашу ставку никто не перебьет, то покупка будет успешной.
 

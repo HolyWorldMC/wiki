@@ -8,7 +8,7 @@
 
 ## Как продавать ресурсы
 
-<div data-full-width="false" data-with-frame="true"><figure><img src="../.gitbook/assets/buyer-buy.png" alt=""><figcaption></figcaption></figure></div>
+<div data-full-width="false" data-with-frame="true"><figure><img src="../.gitbook/assets/buyer-buy.png" alt=""><figcaption><p>Кнопка в меню Скупщика, чтобы сдать предметы</p></figcaption></figure></div>
 
 Ресурсы можно продать в главном меню скупщика `/buyer`. Просто переместите предметы, которые хотите продать, в любой слот меню. Затем нажмите кнопку продажи в правом нижнем углу. После этого вы получите монеты и очки скупщика.
 
@@ -131,7 +131,7 @@
 
 ## Авто-скупщик
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/buyer-auto (1).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/buyer-auto (1).png" alt=""><figcaption><p>Кнопка в меню Скупщика, чтобы включать/выключить авто-скупщика</p></figcaption></figure></div>
 
 Меню авто-скупщика доступно по команде `/buyer auto`, а также в главном меню скупщика.
 
@@ -152,7 +152,7 @@
 
 ### Бустер Скупщика
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/buyer-booster.png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/buyer-booster.png" alt=""><figcaption><p>Кнопка в меню /boosters, чтобы купить за сапфиры бустер Скупщика</p></figcaption></figure></div>
 
 Имея при себе достаточно Сапфиров, вы можете улучшить свой бустер Скупщика в Премиум-магазине при помощи команды `/boosters`.
 
@@ -192,7 +192,7 @@
 
 ### «Ульта Скупщика»
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/buyer-ulta.png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/buyer-ulta.png" alt=""><figcaption><p>Кнопка в меню Магазин скупщика, чтобы купить Ульту Скупщика</p></figcaption></figure></div>
 
 Имея достаточно накопленных очков скупщика, вы можете активировать за них «Ульту Скупщика» сроком на 1 час в магазине Скупщика `/buyer shop`. Вы будете получать на 10% больше с продажи ресурсов.
 
@@ -204,7 +204,7 @@
 
 ### Через инвестиции
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/buyer-invest.png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/buyer-invest.png" alt=""><figcaption><p>Кнопка в меню Инвестиций /invest, чтобы вложить деньги в Товары скупщика</p></figcaption></figure></div>
 
 Имея достаточно монеток, вы можете пожертвовать их в инвестицию «Товар скупщика» при помощи команды `/invest`. Данный множитель действует на всех игроков режима до конца вайпа.
 
@@ -218,7 +218,7 @@
 
 ### За Боевые фрагменты или Универсальный ключ
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/buyer-uniq.png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/buyer-uniq.png" alt=""><figcaption><p>Кнопка в меню Авто-скупщика, чтобы повысить локальный бонус за Универсальный ключ</p></figcaption></figure></div>
 
 Имея у себя боевые фрагменты или универсальный ключ, вы можете повысить локальный бонус, стоимость одного случайного предмета у скупщика, в меню авто-скупщика /buyer auto на нижней строчке.
 
@@ -230,7 +230,7 @@
 
 ## Магазин Скупщика
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/buyer-shop.png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/buyer-shop.png" alt=""><figcaption><p>Кнопка в меню Магазин скупщика, чтобы купить книгу Фермер 2</p></figcaption></figure></div>
 
 
 

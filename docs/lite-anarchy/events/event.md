@@ -14,7 +14,7 @@
 
 ## Голосование за ивенты
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/event-vote.png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/event-vote.png" alt=""><figcaption><p>Одна из кнопок, чтобы проголосовать за будующий ивент</p></figcaption></figure></div>
 
 Чтобы проголосовать за следующий ивент, используйте команду `/vote`. В определённый момент каждые 65 минут на вашей Анархии может начаться голосование за новый ивент. Вам предложат три случайных ивента с разной редкостью.
 

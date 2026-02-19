@@ -22,7 +22,7 @@
 
 #### Ценность яиц дракона
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/end-egg.png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/end-egg.png" alt=""><figcaption><p>Яйца дракона за 777 сапфиров в инвентаре</p></figcaption></figure></div>
 
 Ценность яйца дракона вырастает каждые три минуты на 1 Сапфир, если вы храните его в сундуке у себя на базе. Но будьте внимательны, все яйца дракона отображаются вместе с координатами сундука в топе `/warp top.`
 
@@ -39,7 +39,7 @@
 
 #### Осколочные яйца Энда
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/end-eggoscolitem.png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/end-eggoscolitem.png" alt=""><figcaption><p>Осколочное эндер яйцо в инвентаре</p></figcaption></figure></div>
 
 **Осколочные яйца Энда** – особенные предметы, получаемые из специальных структур, спрятанных в мире энда. В Эндер мире доступны как кастомные, так и ванильные подземелья с уникальными наградами.
 
@@ -51,7 +51,7 @@
 
 #### Обмен осколочных яиц энда на яйцо дракона
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/end-eggoscol.png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/end-eggoscol.png" alt=""><figcaption><p>Кнопка в меню Хранителя Яиц /eggkeeper, чтобы обменять осколочные эндер яйца на яйцо дракона</p></figcaption></figure></div>
 
 Имея при себе достаточно Осколочных эндер яиц можно обменять их у Хранителя яиц `/eggkeeper` с шансом 0.1% на Яйцо дракона.
 

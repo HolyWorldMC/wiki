@@ -4,7 +4,7 @@
 
 ## Где находится замок
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/castle-zamok.png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/castle-zamok.png" alt=""><figcaption><p>Замок на нулевых координатах</p></figcaption></figure></div>
 
 Замок всегда расположен на координатах x:0, z:0 на каждой анархии в течение всего вайпа. Любой игрок может добраться до него.
 
@@ -14,7 +14,7 @@
 
 ## Шалкеры с лутом в замке
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/castle-shulkers.png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/castle-shulkers.png" alt=""><figcaption><p>Шалкеры в замке на нулевых координатах</p></figcaption></figure></div>
 
 На территории замка появляются шалкеры с редким лутом. Всего здесь может появиться 22 шалкера. Их места появления отмечены плачущим обсидианом, а сам шалкер выделяется частицами вокруг него.
 
@@ -44,7 +44,7 @@
 
 ## Бункер под замком
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/castle-bunker.png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/castle-bunker.png" alt=""><figcaption><p>Комната «Бункер», находящаяся под замком на нулевых координатах.</p></figcaption></figure></div>
 
 В лабиринтах под замком находится специальная места под названием "Бункер". Это место характерно большой стеной из древних обломков, обсидиана или плачущего обсидиана, и напротив стены раздатчика.
 
@@ -88,6 +88,6 @@
 
 ### Награда за взрыв бункера
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/castle-blackshulker.png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/castle-blackshulker.png" alt=""><figcaption><p>Комната «Бункера с черным шалкером» под замком на нулевых координатах.</p></figcaption></figure></div>
 
 После взрыва стены бункера вас ждет особый черный шалкер. Сломав его, вы получите случайный динамит. Однако есть шанс, что выпадут талисманы, броня или элитры.
