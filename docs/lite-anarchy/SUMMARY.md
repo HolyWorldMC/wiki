@@ -1,6 +1,7 @@
 # Table of contents
 
 * [🏠 О режиме Лайт Анархия](README.md)
+* [ℹ️ Особенности Лайт анархии](features.md)
 * [⁉️ Часто задаваемые вопросы](faq.md)
 * [📑 Архив вопросов](archive.md)
 
@@ -15,7 +16,7 @@
 ## Фарм и добыча <a href="#farming_and_mining" id="farming_and_mining"></a>
 
 * [⛏️ Автошахта](farming_and_mining/mine.md)
-* [💫 Хранитель опыта](farming_and_mining/expkeeper.md)
+* [💫 Опыт](farming_and_mining/expkeeper.md)
 * [🪄 Зачарования](farming_and_mining/enchantments.md)
 * [📦 Уникальный шалкер](farming_and_mining/unique.md)
 * [Сокровищницы](farming_and_mining/sokrovishnici.md)
@@ -56,5 +57,5 @@
 
 * [Титулы](personalize/tituli.md)
 * [Кастомизация](personalize/personalizatsia-custom.md)
-* [Сапфиры и коины](personalize/sapfiry-i-koiny.md)
+* [🪙 Сапфиры и коины](personalize/donat-currency.md)
 * [Премиум статус](personalize/premium-status.md)
