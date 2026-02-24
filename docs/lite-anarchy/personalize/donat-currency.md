@@ -52,7 +52,7 @@
 {% hint style="info" %}
 Способов потратить Сапфиры много. Задайте вопрос в поиске, и ИИ даст ответ, опираясь на данные из Википедии
 
-<button type="button" class="button primary" data-action="ask" data-query="Куда можно потратить Сапфиры на Лайт анархии?" data-icon="gitbook-assistant">Куда можно потратить Сапфиры на Лайт Анархии?</button>
+<button type="button" class="button primary" data-action="ask" data-query="Все способы, куда можно потратить сапфиры на лайт анархии: покупки, улучшения и т.д." data-icon="gitbook-assistant">Где можно потратить сапфиры?</button>
 {% endhint %}
 
 ### Как заработать Сапфиры
@@ -63,5 +63,5 @@
 {% hint style="info" %}
 Способов заработать Сапфиры достаточно. Задайте вопрос в поиске, и ИИ даст ответ, опираясь на данные из Википедии
 
-<button type="button" class="button primary" data-action="ask" data-query="Все способы, как можно получить Сапфиры на Лайт Анархии" data-icon="gitbook-assistant">Все способы, как можно получить Сапфиры на Лайт Анархии</button>
+<button type="button" class="button primary" data-action="ask" data-query="Все способы, которые есть по заработку сапфиров на лайт анархии" data-icon="gitbook-assistant">Как заработать Сапфиры</button>
 {% endhint %}
