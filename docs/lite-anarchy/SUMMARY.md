@@ -15,7 +15,7 @@
 ## Фарм и добыча <a href="#farming_and_mining" id="farming_and_mining"></a>
 
 * [⛏️ Автошахта](farming_and_mining/mine.md)
-* [Хранитель опыта](farming_and_mining/khranitel-opyta.md)
+* [💫 Хранитель опыта](farming_and_mining/expkeeper.md)
 * [🪄 Зачарования](farming_and_mining/enchantments.md)
 * [📦 Уникальный шалкер](farming_and_mining/unique.md)
 * [Сокровищницы](farming_and_mining/sokrovishnici.md)
