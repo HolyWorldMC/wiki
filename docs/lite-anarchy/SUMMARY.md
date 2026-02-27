@@ -5,57 +5,57 @@
 * [⁉️ Часто задаваемые вопросы](faq.md)
 * [📑 Архив вопросов](archive.md)
 
-## Деньги и торговля <a href="#r" id="r"></a>
+## Деньги и торговля <a href="#money" id="money"></a>
 
-* [💰 Скупщик](r/buyer.md)
-* [🔨 Аукцион](r/auction.md)
-* [📈 Инвестиции](r/invest.md)
-* [🛒 Жители](r/villagers.md)
-* [📊 Биржа](r/exchange.md)
+* [💰 Скупщик](money/buyer.md)
+* [🔨 Аукцион](money/auction.md)
+* [📈 Инвестиции](money/invest.md)
+* [🛒 Жители](money/villagers.md)
+* [📊 Биржа](money/exchange.md)
 
-## Фарм и добыча <a href="#r" id="r"></a>
+## Фарм и добыча <a href="#farming" id="farming"></a>
 
-* [⛏️ Автошахта](r-1/mine.md)
-* [💫 Опыт](r-1/expkeeper.md)
-* [🪄 Зачарования](r-1/enchantments.md)
-* [📦 Уникальный шалкер](r-1/unique.md)
-* [Сокровищницы](r-1/sokrovishnici.md)
+* [⛏️ Автошахта](farming/mine.md)
+* [💫 Опыт](farming/expkeeper.md)
+* [🪄 Зачарования](farming/enchantments.md)
+* [📦 Уникальный шалкер](farming/unique.md)
+* [Сокровищницы](farming/sokrovishnici.md)
 
-## Приваты и взрывчатки <a href="#r" id="r"></a>
+## Приваты и взрывчатки <a href="#region" id="region"></a>
 
-* [🗺️ Приваты](r-2/region.md)
-* [Динамит](r-2/vzryvchatki.md)
-* [Рейд блок](r-2/reid-blok.md)
+* [🗺️ Приваты](region/region.md)
+* [Динамит](region/vzryvchatki.md)
+* [Рейд блок](region/reid-blok.md)
 
-## Предметы <a href="#r" id="r"></a>
+## Предметы <a href="#items" id="items"></a>
 
-* [Кастомные предметы](r-3/custom-predmeti.md)
-* [Рюкзак](r-3/ryukzak.md)
-* [Сферы и Талисманы](r-3/sferi-i-talismani.md)
-* [Осколочные яйца](r-3/oskolok-iaitsa.md)
+* [Кастомные предметы](items/custom-predmeti.md)
+* [Рюкзак](items/ryukzak.md)
+* [Сферы и Талисманы](items/sferi-i-talismani.md)
+* [Осколочные яйца](items/oskolok-iaitsa.md)
 
-## ПВП <a href="#r" id="r"></a>
+## ПВП
 
-* [Кланы](r-4/clan.md)
-* [Дуэли](r-4/pvp-duel.md)
+* [Кланы](pvp/clan.md)
+* [Дуэли](pvp/pvp-duel.md)
 
-## Прокачка <a href="#r" id="r"></a>
+## Прокачка <a href="#upgrade" id="upgrade"></a>
 
-* [♻️ Улучшение предметов](r-5/create.md)
-* [Ежедневные задания](r-5/ezhednevnye-zadaniya.md)
-* [Боевой пропуск](r-5/boevoy-propusk.md)
-* [Квестовик автошахты](r-5/quest_mine.md)
+* [♻️ Улучшение предметов](upgrade/create.md)
+* [Ежедневные задания](upgrade/ezhednevnye-zadaniya.md)
+* [Боевой пропуск](upgrade/boevoy-propusk.md)
+* [Квестовик автошахты](upgrade/quest_mine.md)
 
-## Мероприятия <a href="#r" id="r"></a>
+## Мероприятия <a href="#events" id="events"></a>
 
-* [🗓️ Ивенты](r-6/event.md)
-* [🌠 Захват Энда](r-6/end.md)
-* [🏰 Замок с бункером](r-6/castle.md)
-* [Боссы](r-6/boss.md)
+* [🗓️ Ивенты](events/event.md)
+* [🌠 Захват Энда](events/end.md)
+* [🏰 Замок с бункером](events/castle.md)
+* [Боссы](events/boss.md)
 
-## Персонализация <a href="#r" id="r"></a>
+## Персонализация <a href="#pers" id="pers"></a>
 
-* [Титулы](r-7/tituli.md)
-* [Кастомизация](r-7/personalizatsia-custom.md)
-* [🪙 Сапфиры и коины](r-7/donat-currency.md)
-* [Премиум статус](r-7/premium-status.md)
+* [Титулы](pers/tituli.md)
+* [Кастомизация](pers/personalizatsia-custom.md)
+* [🪙 Сапфиры и коины](pers/donat-currency.md)
+* [Премиум статус](pers/premium-status.md)
