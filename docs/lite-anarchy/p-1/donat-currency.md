@@ -22,7 +22,7 @@
 
 ### Обмен на монетки
 
-Вы можете обменять свои коины на монетки на [бирже](../money_and_trade/exchange.md#kak-obmenyat-koiny-na-monetki). Курс коина к монеткам меняется каждый день.
+Вы можете обменять свои коины на монетки на [бирже](../dengi-i-torgovlya/exchange.md#kak-obmenyat-koiny-na-monetki). Курс коина к монеткам меняется каждый день.
 
 ***
 
