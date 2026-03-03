@@ -24,7 +24,7 @@
 ## Приваты и взрывчатки <a href="#region" id="region"></a>
 
 * [🗺️ Приваты](region/region.md)
-* [Динамит](region/vzryvchatki.md)
+* [💣 Динамит](region/tnt.md)
 * [Рейд блок](region/reid-blok.md)
 
 ## Предметы <a href="#items" id="items"></a>
