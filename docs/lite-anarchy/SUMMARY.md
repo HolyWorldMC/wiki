@@ -25,7 +25,6 @@
 
 * [🗺️ Приваты](region/region.md)
 * [💣 Динамит](region/tnt.md)
-* [Рейд блок](region/reid-blok.md)
 
 ## Предметы <a href="#items" id="items"></a>
 
