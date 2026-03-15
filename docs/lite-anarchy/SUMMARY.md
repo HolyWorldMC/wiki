@@ -29,7 +29,7 @@
 ## Предметы <a href="#items" id="items"></a>
 
 * [Кастомные предметы](items/custom-predmeti.md)
-* [Рюкзак](items/ryukzak.md)
+* [🎒 Рюкзак](items/backpack.md)
 * [Сферы и Талисманы](items/sferi-i-talismani.md)
 * [Осколочные яйца](items/oskolok-iaitsa.md)
 
