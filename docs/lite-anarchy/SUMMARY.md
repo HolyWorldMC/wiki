@@ -10,7 +10,6 @@
 * [💰 Скупщик](money/buyer.md)
 * [🔨 Аукцион](money/auction.md)
 * [📈 Инвестиции](money/invest.md)
-* [🛒 Жители](money/villagers.md)
 * [📊 Биржа](money/exchange.md)
 
 ## Фарм и добыча <a href="#farming" id="farming"></a>
@@ -30,7 +29,7 @@
 
 * [Кастомные предметы](items/custom-predmeti.md)
 * [🎒 Рюкзак](items/backpack.md)
-* [Сферы и Талисманы](items/sferi-i-talismani.md)
+* [🔮 Сферы и Талисманы](items/talisman.md)
 * [Осколочные яйца](items/oskolok-iaitsa.md)
 
 ## ПВП
