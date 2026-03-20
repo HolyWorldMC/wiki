@@ -1,7 +1,7 @@
 ---
-cover: .gitbook/assets/banner_lite.jpg
-coverY: 63.61894900336526
-coverHeight: 306
+cover: .gitbook/assets/ChatGPT Image 20 мар. 2026 г., 19_52_47.png
+coverY: 185.12582837173179
+coverHeight: 322
 layout:
   width: default
   cover:

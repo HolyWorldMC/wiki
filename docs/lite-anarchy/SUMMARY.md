@@ -18,7 +18,7 @@
 * [💫 Опыт](farming/expkeeper.md)
 * [🪄 Зачарования](farming/enchantments.md)
 * [📦 Уникальный шалкер](farming/unique.md)
-* [Сокровищницы](farming/sokrovishnici.md)
+* [🕌 Сокровищницы](farming/treasure.md)
 
 ## Приваты и взрывчатки <a href="#region" id="region"></a>
 
@@ -49,11 +49,11 @@
 * [🗓️ Ивенты](events/event.md)
 * [🌠 Захват Энда](events/end.md)
 * [🏰 Замок с бункером](events/castle.md)
-* [Боссы](events/boss.md)
+* [☠️ Боссы](events/boss.md)
 
 ## Персонализация <a href="#pers" id="pers"></a>
 
 * [Титулы](pers/tituli.md)
 * [Кастомизация](pers/personalizatsia-custom.md)
 * [🪙 Сапфиры и коины](pers/donat-currency.md)
-* [Премиум статус](pers/premium-status.md)
+* [💎 Премиум статус](pers/premium.md)
