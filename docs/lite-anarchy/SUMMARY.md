@@ -18,7 +18,7 @@
 * [💫 Опыт](farming/expkeeper.md)
 * [🪄 Зачарования](farming/enchantments.md)
 * [📦 Уникальный шалкер](farming/unique.md)
-* [🕌 Сокровищницы](farming/treasure.md)
+* [🕌 Сокровищницы](farming/sokrovishnici.md)
 
 ## Приваты и взрывчатки <a href="#region" id="region"></a>
 
@@ -40,9 +40,9 @@
 ## Прокачка <a href="#upgrade" id="upgrade"></a>
 
 * [♻️ Улучшение предметов](upgrade/create.md)
-* [Ежедневные задания](upgrade/ezhednevnye-zadaniya.md)
+* [🕐 Ежедневные задания](upgrade/daily.md)
 * [Боевой пропуск](upgrade/boevoy-propusk.md)
-* [Квестовик автошахты](upgrade/quest_mine.md)
+* [⛏️ Квестовик на автошахте](upgrade/kvestovik.md)
 
 ## Мероприятия <a href="#events" id="events"></a>
 
@@ -56,4 +56,4 @@
 * [Титулы](pers/tituli.md)
 * [Кастомизация](pers/personalizatsia-custom.md)
 * [🪙 Сапфиры и коины](pers/donat-currency.md)
-* [💎 Премиум статус](pers/premium.md)
+* [💎 Премиум статус](pers/premium-status.md)
