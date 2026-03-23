@@ -4,7 +4,7 @@
 
 <div data-with-frame="true"><figure><img src="../.gitbook/assets/premium-logo (3).png" alt=""><figcaption></figcaption></figure></div>
 
-<p align="center"><a href="https://holyworld.ru/payment/lite/premium-pass" class="button primary" data-icon="basket-shopping">Купить PREMIUM</a></p>
+<p align="center"><a href="https://holyworld.me/payment/lite/premium-pass" class="button primary" data-icon="basket-shopping">Купить PREMIUM</a></p>
 
 ## Преимущества подписки
 
