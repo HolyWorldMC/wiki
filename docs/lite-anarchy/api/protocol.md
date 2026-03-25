@@ -2,7 +2,7 @@
 
 Документация для разработчиков клиентских модов.
 
-Пример реализации на Fabric: [liteapi-fabric-example](https://github.com/3ako/liteapi-fabric-example/)
+Пример реализации на Fabric: [liteapi-fabric-example](https://github.com/HolyWorldMC/liteapi-fabric-example)
 
 ***
 
