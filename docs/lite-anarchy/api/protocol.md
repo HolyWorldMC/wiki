@@ -8,9 +8,9 @@
 
 ## Модули
 
-| Модуль          | Канал                     | Документация       |
-| --------------- | ------------------------- | ------------------ |
-| Feature Control | `liteapi:feature-control` | feature-control.md |
+| Модуль          | Канал                     | Документация                  |
+| --------------- | ------------------------- | ----------------------------- |
+| Feature Control | `liteapi:feature-control` | [feature-control](feature.md) |
 
 ***
 
