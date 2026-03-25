@@ -57,3 +57,8 @@
 * [🎨 Кастомизация](pers/personalizatsia-custom.md)
 * [💎 Сапфиры и коины](pers/donat-currency.md)
 * [⭐ Премиум статус](pers/premium-status.md)
+
+## Для разработчиков <a href="#api" id="api"></a>
+
+* [🔌 API](api/protocol.md)
+* [🎛️ Feature Control](api/feature.md)
