@@ -2,7 +2,7 @@
 
 Канал: **`liteapi:feature-control`**
 
-Общий протокол (формат пакетов, коды ошибок, rate limiting): api.md
+Общий протокол (формат пакетов, коды ошибок, rate limiting): [api](protocol.md)
 
 ***
 
