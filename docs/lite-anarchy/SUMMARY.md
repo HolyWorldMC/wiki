@@ -35,7 +35,7 @@
 ## ПВП
 
 * [🛡️ Кланы](pvp/clan.md)
-* [⚔️ Дуэли](pvp/pvp-duel.md)
+* [⚔️ Дуэли](pvp/duel.md)
 
 ## Прокачка <a href="#upgrade" id="upgrade"></a>
 
@@ -49,6 +49,7 @@
 * [🎉 Ивенты](events/event.md)
 * [🌀 Захват Энда](events/end.md)
 * [🏰 Замок с бункером](events/castle.md)
+* [☀️ Ядро Солнца](events/core_sun.md)
 * [👑 Боссы](events/boss.md)
 
 ## Персонализация <a href="#pers" id="pers"></a>
