@@ -41,7 +41,7 @@
 
 * [⬆️ Улучшение предметов](upgrade/create.md)
 * [📅 Ежедневные задания](upgrade/daily.md)
-* [🎫 Боевой пропуск](upgrade/boevoy-propusk.md)
+* [🎫 Боевой пропуск](upgrade/battlepass.md)
 * [📜 Квестовик на автошахте](upgrade/kvestovik.md)
 
 ## Мероприятия <a href="#events" id="events"></a>
