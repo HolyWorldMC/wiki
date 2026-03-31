@@ -27,10 +27,10 @@
 
 ## Предметы <a href="#items" id="items"></a>
 
-* [⚒️ Кастомные предметы](items/custom-predmeti.md)
+* [⚒️ Кастомные предметы](items/custom.md)
 * [🎒 Рюкзак](items/backpack.md)
 * [🔷 Сферы и Талисманы](items/talisman.md)
-* [🥚 Осколочные яйца](items/oskolok-iaitsa.md)
+* [🥚 Яйца призыва](items/eggs.md)
 
 ## ПВП
 
