@@ -31,6 +31,7 @@
 * [🎒 Рюкзак](items/backpack.md)
 * [🔷 Сферы и Талисманы](items/talisman.md)
 * [🥚 Яйца призыва](items/eggs.md)
+* [🏭 Автокрафт](items/autocraft.md)
 
 ## ПВП
 
