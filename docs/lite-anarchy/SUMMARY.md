@@ -19,6 +19,7 @@
 * [🔮 Зачарования](farming/enchantments.md)
 * [📦 Уникальный шалкер](farming/unique.md)
 * [💰 Сокровищницы](farming/sokrovishnici.md)
+* [🌟 Золотой спавнер](farming/goldenspawner.md)
 
 ## Приваты и взрывчатки <a href="#region" id="region"></a>
 
