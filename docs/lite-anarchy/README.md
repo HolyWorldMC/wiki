@@ -33,6 +33,8 @@ layout:
 
 <table><thead><tr><th width="202"></th><th></th></tr></thead><tbody><tr><td>Айпи адрес (IP)</td><td><code>lite.holyworld.ru</code> (Для игроков из России)<br><code>lite.holyworld.me</code> (Для игроков из других стран)</td></tr><tr><td>Версия игры</td><td>1.16.5-1.21.11</td></tr></tbody></table>
 
+{% @gitbook-hw-integration/popular-articles %}
+
 ## Типы серверов
 
 <div data-with-frame="true"><figure><img src=".gitbook/assets/lite-select.png" alt=""><figcaption><p>Кнопка, чтобы зайти на одну из Лайт анарахий</p></figcaption></figure></div>
