@@ -1,12 +1,6 @@
 ---
-cover: .gitbook/assets/ChatGPT Image 20 мар. 2026 г., 19_52_47.png
-coverY: 185.12582837173179
-coverHeight: 322
 layout:
   width: default
-  cover:
-    visible: true
-    size: full
   title:
     visible: true
   description:
@@ -25,6 +19,8 @@ layout:
 
 # 🏴 О режиме Лайт Анархия
 
+## О проекте
+
 **HolyWorld** — это один из самых популярных серверов Майнкрафт с тематикой анархии. Здесь вы можете делать почти что угодно: от простых убийств до захвата огромных баз с ресурсами. В игре вас ждут новые и увлекательные механики, которые изменят ваш игровой опыт.
 
 {% hint style="info" %}
@@ -32,8 +28,6 @@ layout:
 {% endhint %}
 
 <table><thead><tr><th width="202"></th><th></th></tr></thead><tbody><tr><td>Айпи адрес (IP)</td><td><code>lite.holyworld.ru</code> (Для игроков из России)<br><code>lite.holyworld.me</code> (Для игроков из других стран)</td></tr><tr><td>Версия игры</td><td>1.16.5-1.21.11</td></tr></tbody></table>
-
-{% @gitbook-hw-integration/popular-articles %}
 
 ## Типы серверов
 

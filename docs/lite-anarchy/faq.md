@@ -12,6 +12,8 @@ description: >-
 <p align="center"><button type="button" class="button primary" data-action="ask" data-icon="gitbook-assistant">Спросить ИИ</button></p>
 {% endhint %}
 
+{% @gitbook-hw-integration/popular-articles %}
+
 #### Как писать в глобальный чат, который видят все игроки?
 
 > Чтобы отправить сообщение в общий чат, добавьте перед ним восклицательный знак "!". Например: `! продам кирку этернити`
