@@ -58,10 +58,11 @@
 
 * [🏆 Титулы](pers/tituli.md)
 * [🎨 Кастомизация](pers/personalizatsia-custom.md)
+* [🪪 Привилегии](pers/donate.md)
 * [💎 Сапфиры и коины](pers/donat-currency.md)
 * [⭐ Премиум статус](pers/premium-status.md)
 
 ## Для разработчиков <a href="#api" id="api"></a>
 
-* [🔌 API](api/protocol.md)
-* [🎛️ Feature Control](api/feature.md)
+* [🔌 In-Game API](api/protocol.md)
+* [🎛️ In-Game API: Feature Control ](api/feature.md)
