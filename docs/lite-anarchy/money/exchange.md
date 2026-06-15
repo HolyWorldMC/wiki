@@ -2,6 +2,8 @@
 
 Биржа — это торговая площадка для обмена монеток на коины, которые приобретаются за реальную валюту на официальном сайте сервера. Система позволяет игрокам торговать между собой игровой валютой.
 
+{% @gitbook-hw-integration/coin-rate %}
+
 ## Как открыть биржу
 
 <div data-with-frame="true"><figure><img src="../.gitbook/assets/exchange-menu.png" alt=""><figcaption><p>Главное меню Биржи</p></figcaption></figure></div>
