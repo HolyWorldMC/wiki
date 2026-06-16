@@ -1,5 +1,7 @@
 # 🛒 Описание товаров
 
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/goods-priv.png" alt=""><figcaption></figcaption></figure></div>
+
 <details>
 
 <summary>Кастомный донат</summary>
@@ -258,6 +260,8 @@
 
 ***
 
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/goods-cen.png" alt=""><figcaption></figcaption></figure></div>
+
 <details>
 
 <summary>Кейс с донатом</summary>
@@ -360,6 +364,8 @@
 </details>
 
 ***
+
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/goods-acc.png" alt=""><figcaption></figcaption></figure></div>
 
 <details>
 
