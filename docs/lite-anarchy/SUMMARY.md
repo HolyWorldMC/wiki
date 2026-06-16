@@ -58,7 +58,7 @@
 
 * [🏆 Титулы](pers/tituli.md)
 * [🎨 Кастомизация](pers/personalizatsia-custom.md)
-* [🛒 Описание товаров](pers/goods.md)
+* [🛒 Описание товаров](pers/goods-description.md)
 * [💎 Сапфиры и коины](pers/donat-currency.md)
 * [⭐ Премиум статус](pers/premium-status.md)
 
