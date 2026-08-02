@@ -56,7 +56,7 @@
 
 ## Персонализация <a href="#pers" id="pers"></a>
 
-* [🏆 Титулы](pers/tituli.md)
+* [🏆 Титулы](pers/tituls.md)
 * [🎨 Кастомизация](pers/personalizatsia-custom.md)
 * [🛒 Описание товаров](pers/goods-description.md)
 * [💎 Сапфиры и коины](pers/donat-currency.md)
