@@ -1,0 +1,6 @@
+---
+icon: cart-shopping
+---
+
+# Скупец
+
