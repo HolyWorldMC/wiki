@@ -30,7 +30,7 @@ icon: display-chart-up-circle-currency
 
 ### Маркет
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/exchange_market.png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/exchange_market (2).png" alt=""><figcaption></figcaption></figure></div>
 
 Обменять жетоны на монетки можно в главном меню биржи `/exchange`. Выберите желаемую заявку и нажмите по иконке заявки. Вы можете выкупить как все сразу монетки, так и выкупить только часть монеток.
 
@@ -40,6 +40,6 @@ icon: display-chart-up-circle-currency
 
 ## Как обменять монетки на коины
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/exchange_sell.png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/exchange_sell (1).png" alt=""><figcaption></figcaption></figure></div>
 
 Обменять монетки на жетоны можно в главном меню биржи `/exchange`. Для этого нужно создать заявку на продажу монет, нажав на специальную иконку в меню. У вас откроется меню с выбором, сколько вы хотите получить жетонов.
