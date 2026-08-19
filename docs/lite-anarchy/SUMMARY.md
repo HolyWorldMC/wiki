@@ -64,5 +64,6 @@
 
 ## Для разработчиков <a href="#api" id="api"></a>
 
+* [🌐 REST API](api/rest-api.md)
 * [🔌 In-Game API](api/protocol.md)
 * [🎛️ In-Game API: Feature Control ](api/feature.md)
