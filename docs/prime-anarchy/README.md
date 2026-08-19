@@ -61,19 +61,5 @@ layout:
 
 ## Ссылки на соцсети
 
-{% columns %}
-{% column %}
-<p align="center">Телеграм-канал Прайм Анархии: <a href="https://t.me/holyworldprime">t.me/holyworldprime</a></p>
-
-<p align="center"><a href="https://t.me/holyworldprime" class="button primary" data-icon="telegram">Открыть</a></p>
-{% endcolumn %}
-
-{% column %}
-Официальный сайт где можно приобрести донат: [holyworld.me](https://holyworld.me/)
-
-<p align="center"><a href="https://holyworld.me/" class="button primary" data-icon="globe-pointer">Открыть</a></p>
-
-
-{% endcolumn %}
-{% endcolumns %}
+<table data-view="cards"><thead><tr><th></th><th data-type="content-ref"></th><th><select></select></th></tr></thead><tbody><tr><td>Телеграм-канал Прайм Анархии: <a href="https://t.me/holyworldprime">t.me/holyworldprime</a></td><td><a href="https://t.me/holyworldprime">https://t.me/holyworldprime</a></td><td></td></tr><tr><td>Официальный сайт где можно приобрести донат: <a href="https://holyworld.me/">holyworld.me</a></td><td><a href="https://holyworld.me/">https://holyworld.me/</a></td><td></td></tr></tbody></table>
 
