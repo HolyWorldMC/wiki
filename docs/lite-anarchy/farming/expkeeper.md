@@ -95,7 +95,7 @@
 
 ## Покупка кейсов за уровни опыта
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/cases (1).png" alt=""><figcaption><p>Кейсы, которые находятся на спавне по варпу /warp case</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/cases.png" alt=""><figcaption><p>Кейсы, которые находятся на спавне по варпу /warp case</p></figcaption></figure></div>
 
 Имея достаточно большой уровень опыта, вы можете купить какой-нибудь кейс с вещами на спавне `/warp case`:
 

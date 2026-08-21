@@ -337,7 +337,7 @@
 
 <summary>Игральный куб</summary>
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/cube-event (1).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/cube-event.png" alt=""><figcaption></figcaption></figure></div>
 
 **«Игральный куб»** — это случайный мировой ивент, который может выпасть во время голосования за события. Если он побеждает, то **в случайном месте обычного мира появляется большой белый куб**.
 
@@ -378,4 +378,3 @@
 {% endhint %}
 
 </details>
-

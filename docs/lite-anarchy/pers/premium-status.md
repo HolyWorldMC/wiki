@@ -2,7 +2,7 @@
 
 **Премиум подписка** — это платная привилегия, которая дает дополнительные возможности и преимущества на сервере.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/premium-logo (3).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/premium-logo (2).png" alt=""><figcaption></figcaption></figure></div>
 
 <p align="center"><a href="https://holyworld.me/payment/lite/premium-pass" class="button primary" data-icon="basket-shopping">Купить PREMIUM</a></p>
 
