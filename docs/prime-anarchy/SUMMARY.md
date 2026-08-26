@@ -25,4 +25,4 @@
 
 ## Интересное <a href="#interesting" id="interesting"></a>
 
-* [Гемы и жетоны](interesting/donat_currency.md)
+* [Гемы и Жетоны](interesting/donat_currency.md)
