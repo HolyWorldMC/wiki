@@ -103,10 +103,10 @@ site:
             - type: space
               key: space-6
               title: Альфа SMP
-              path: alfa-smp
+              path: alfa-smp-1
               default: true
               content:
-                directory: ./docs/alpha-smp
+                directory: ./alpha-smp/alfa-smp-1
         - type: section
           key: section-7
           title: Список изменений
