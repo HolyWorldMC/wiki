@@ -35,7 +35,7 @@ site:
               path: lait-anarkhiya-1
               default: true
               content:
-                directory: ./lite/lait-anarkhiya-1
+                directory: ./docs/lite-anarchy
                 language: ru
         - type: section
           key: section-4
@@ -50,7 +50,8 @@ site:
               path: chenzhlog-lait-anarkhiya
               default: true
               content:
-                directory: ./lite-changelog/chenzhlog-lait-anarkhiya
+                directory: ./changelogs/lite-anarchy
+                language: ru
     - type: section-group
       key: section-group-2
       title: Прайм Анархия
@@ -69,7 +70,7 @@ site:
               path: praim-anarkhiya
               default: true
               content:
-                directory: ./prime/praim-anarkhiya
+                directory: ./docs/prime-anarchy
                 language: ru
         - type: section
           key: section-5
@@ -84,7 +85,8 @@ site:
               path: chenzhlog-praim-anarkhiya
               default: true
               content:
-                directory: ./prime-changelog/chenzhlog-praim-anarkhiya
+                directory: ./changelogs/prime-anarchy
+                language: ru
     - type: section-group
       key: section-group-3
       title: Альфа SMP
@@ -103,7 +105,8 @@ site:
               path: alfa-smp-1
               default: true
               content:
-                directory: ./alpha-smp/alfa-smp-1
+                directory: ./docs/alpha-smp
+                language: ru
         - type: section
           key: section-7
           title: Список изменений
@@ -117,4 +120,5 @@ site:
               path: chenzhlog-alfa-smp-1
               default: true
               content:
-                directory: ./alpha-changelog/chenzhlog-alfa-smp-1
+                directory: ./changelogs/alpha-smp
+                language: ru
