@@ -20,9 +20,9 @@ layout:
   pagination:
     visible: false
   metadata:
-    visible: true
+    visible: false
   tags:
-    visible: true
+    visible: false
   actions:
     visible: false
 ---
