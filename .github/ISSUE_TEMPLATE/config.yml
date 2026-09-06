@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Наш сайт
+    url: https://holyworld.me
+    about: Посетите наш магазин для получения информации о донате.
+  - name: Сообщество
+    url: https://github.com/HolyWorldMC/wiki/discussions
+    about: Используйте обсуждения для вопросов и предложений.
