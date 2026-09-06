@@ -117,7 +117,7 @@ site:
             - type: space
               key: space-7
               title: Ченжлог (Альфа SMP)
-              path: chenzhlog-alfa-smp
+              path: chenzhlog-alfa-smp-1
               default: true
               content:
-                directory: ./changelogs/alpha-smp
+                directory: ./alpha-changelog/chenzhlog-alfa-smp-1
