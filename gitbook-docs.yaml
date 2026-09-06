@@ -16,7 +16,7 @@ site:
           path: lending
           default: true
           content:
-            directory: ./main/lending
+            directory: ./main/landing-page
             language: ru
     - type: section-group
       key: section-group-1
