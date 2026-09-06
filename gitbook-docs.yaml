@@ -82,11 +82,10 @@ site:
             - type: space
               key: space-5
               title: Ченжлог (Прайм Анархия)
-              path: changelog
+              path: chenzhlog-praim-anarkhiya
               default: true
-              draft: true
               content:
-                directory: ./changelogs/prime-anarchy
+                directory: ./prime-changelog/chenzhlog-praim-anarkhiya
     - type: section-group
       key: section-group-3
       title: Альфа SMP
