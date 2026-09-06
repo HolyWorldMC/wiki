@@ -14,7 +14,7 @@ layout:
   pagination:
     visible: false
   metadata:
-    visible: true
+    visible: false
   tags:
     visible: true
   actions:
