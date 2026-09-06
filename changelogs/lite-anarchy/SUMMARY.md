@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Changelog](README.md)
+* [Список изменений](README.md)
 
 ## 2026
 
