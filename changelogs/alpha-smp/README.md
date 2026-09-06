@@ -48,5 +48,8 @@ layout:
 * Product improvement
 
 </details>
+
+<a href="2026/2026-09-06.md" class="button primary">Читать подробнее</a><a href="https://wiki.holyworld.me/alpha-smp" class="button secondary">Документация</a>
+
 {% endupdate %}
 {% endupdates %}
