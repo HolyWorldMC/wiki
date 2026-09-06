@@ -10,13 +10,11 @@
 
 ## Предметы и блоки <a href="#items" id="items"></a>
 
-***
-
-* [Кастомные предметы](custom_items.md)
-* [Сомнительные зачарования](dubious_enchantments.md)
-* [Элементы](elements.md)
-* [Приваты](regions.md)
-* [Рассадники](spawners.md)
+* [Кастомные предметы](items/custom_items.md)
+* [Сомнительные зачарования](items/dubious_enchantments.md)
+* [Элементы](items/elements.md)
+* [Приваты](items/regions.md)
+* [Рассадники](items/spawners.md)
 
 ## Мероприятия <a href="#events" id="events"></a>
 

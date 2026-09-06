@@ -6,7 +6,7 @@ icon: sack
 
 На режиме **Прайм Анархия** используется несколько видов валют: **гемы, жетоны и монетки**. Каждая из них выполняет свою роль и открывает доступ к различным возможностям, поэтому все три валюты важны для развития на режиме.
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/gems_and_jeton.png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/gems_and_jeton (1).png" alt=""><figcaption></figcaption></figure></div>
 
 ## Гемы
 
@@ -52,8 +52,6 @@ icon: sack
 
 {% step %}
 #### Выберите «Оплата жетонами»
-
-
 {% endstep %}
 
 {% step %}

@@ -8,7 +8,7 @@ icon: cart-shopping
 
 ## Как открыть Скупца
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/b_main (1).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/b_main (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 Меню Скупца можно открыть несколькими способами: с помощью команды `/b` или `/buyer`, а также через НПС на спавне, которого зовут «Скупец».
 
@@ -16,7 +16,7 @@ icon: cart-shopping
 
 ### Как продавать ресурсы
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/b_sell.png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/b_sell (2).png" alt=""><figcaption></figcaption></figure></div>
 
 Продавать ресурсы можно во вкладке «Торговля» в главном меню Скупца `/b`. Здесь Скупец предлагает **15 различных товаров**, которые готов у вас приобрести. Найдите среди них нужный товар и нажмите по нему ПКМ, имея соответствующий ресурс в своём инвентаре.
 
@@ -56,7 +56,7 @@ icon: cart-shopping
 
 ### Множители монеток
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/b_percent.png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/b_percent (2).png" alt=""><figcaption></figcaption></figure></div>
 
 На многие товары может действовать **Множитель торговли**, который сделает их продажу ещё выгоднее. Множители бывают **трёх уровней**: I уровень даёт **+5%** к стоимости товара, II уровень — **+10%**, а III уровень — **+15%**.
 
@@ -73,7 +73,7 @@ icon: cart-shopping
 
 ## Этапы и награды
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/b_page_and_rewards.png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/b_page_and_rewards (1).png" alt=""><figcaption></figcaption></figure></div>
 
 Этапы Скупца — это своеобразный боевой пропуск, где есть лишь одна главная цель — **зарабатывать монетки, торгуя со Скупцом**. С каждым новым этапом требования становятся всё выше, поэтому для продвижения дальше придётся заработать ещё больше монеток.
 
@@ -83,7 +83,7 @@ icon: cart-shopping
 
 ## Ежедневная сделка
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/b_daily (1).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/b_daily (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 Каждый день Скупец предлагает вам выполнить одну **Ежедневную сделку** — заработать определённое количество монеток, торгуя товарами из указанной категории. В качестве награды за выполнение сделки вы получите **одну случайную награду из доступного списка**.
 

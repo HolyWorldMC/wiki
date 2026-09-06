@@ -1,6 +1,6 @@
 ---
 icon: square-info
-cover: .gitbook/assets/banner_prime_2.jpg
+cover: .gitbook/assets/banner_prime_2 (1).jpg
 coverY: 0
 coverHeight: 325
 layout:
@@ -33,7 +33,7 @@ layout:
 
 **Прайм Анархия** — это новая и особенная Анархия на версии **Minecraft 1.21.11**. Здесь вас ждёт совершенно новый взгляд на привычную Анархию — с **уникальными механиками, ивентами и возможностями**, которых не встретить на других режимах. И всё это уже на **новейшей версии Майнкрафт**
 
-<div data-with-frame="true"><figure><img src=".gitbook/assets/lobby_servers (1).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src=".gitbook/assets/lobby_servers (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 <table><thead><tr><th width="164"></th><th></th></tr></thead><tbody><tr><td>Айпи</td><td><p><code>mc.holyworld.ru</code> (Для игроков из России)</p><p><code>mc.holyworld.me</code> (Для игроков из других стран)</p></td></tr><tr><td>Версия игры</td><td>1.21.11+</td></tr></tbody></table>
 
@@ -61,5 +61,4 @@ layout:
 
 ## Ссылки на соцсети
 
-{% include ".gitbook/includes/untitled.md" %}
-
+{% include ".gitbook/includes/untitled (1).md" %}

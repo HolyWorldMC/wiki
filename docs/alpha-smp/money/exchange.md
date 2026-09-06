@@ -8,7 +8,7 @@ icon: display-chart-up-circle-currency
 
 ## Как открыть биржу
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/exchange_main.png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/exchange_main (1).png" alt=""><figcaption></figcaption></figure></div>
 
 Меню Биржи можно открыть с помощью команды `/exchange`.
 
@@ -34,7 +34,7 @@ icon: display-chart-up-circle-currency
 
 ### Маркет
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/exchange_market (2).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/exchange_market (2) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 Обменять жетоны на монетки можно в главном меню Биржи `/exchange`. Выберите подходящую заявку и нажмите на её иконку. При этом вы можете выкупить **как всё доступное количество монеток сразу, так и только их часть**.
 
@@ -44,6 +44,6 @@ icon: display-chart-up-circle-currency
 
 ## Как обменять монетки на коины
 
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/exchange_sell (1).png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/exchange_sell (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 Обменять монетки на жетоны можно в главном меню Биржи `/exchange`. Для этого создайте заявку на продажу монет, нажав на специальную иконку в меню. После этого откроется окно, где вы сможете указать, сколько жетонов хотите получить за свои монетки.
