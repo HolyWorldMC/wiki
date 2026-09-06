@@ -13,10 +13,10 @@ site:
         - type: space
           key: space-1
           title: Лендинг
-          path: landing-page
+          path: lending
           default: true
           content:
-            directory: ./main/landing-page
+            directory: ./main/lending
     - type: section-group
       key: section-group-1
       title: Лайт Анархия
