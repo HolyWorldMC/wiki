@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Список изменений](README.md)
+* [Список изменений — Прайм Анархия](README.md)

@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Список изменений](README.md)
+* [Список изменений — Лайт Анархия](README.md)
