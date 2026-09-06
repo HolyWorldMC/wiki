@@ -47,11 +47,10 @@ site:
             - type: space
               key: space-4
               title: Ченжлог (Лайт Анархия)
-              path: changelog
+              path: chenzhlog-lait-anarkhiya
               default: true
-              draft: true
               content:
-                directory: ./changelogs/lite-anarchy
+                directory: ./lite-changelog/chenzhlog-lait-anarkhiya
     - type: section-group
       key: section-group-2
       title: Прайм Анархия
