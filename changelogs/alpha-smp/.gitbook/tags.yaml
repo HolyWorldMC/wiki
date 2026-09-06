@@ -1,12 +1,12 @@
 - tag: feature
-  label: New feature
+  label: Нововведения
   icon: rocket
   color: $primary
 - tag: improvement
-  label: Improvement
+  label: Улучшения
   icon: wrench-simple
   color: violet
 - tag: fix
-  label: Fix
+  label: Исправления
   icon: bug-slash
   color: red
