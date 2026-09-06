@@ -1,0 +1,123 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: HolyWorld
+  structure:
+    - type: section
+      key: section-1
+      title: Главная
+      path: main
+      description: ""
+      icon: house
+      default: true
+      children:
+        - type: space
+          key: space-1
+          title: Лендинг
+          path: landing-page
+          default: true
+          content:
+            directory: ./main/landing-page
+    - type: section-group
+      key: section-group-1
+      title: Лайт Анархия
+      icon: lychee
+      children:
+        - type: section
+          key: section-2
+          title: База знаний
+          path: lite
+          description: Подробная документация по режиму
+          icon: book-open-lines
+          children:
+            - type: space
+              key: space-2
+              title: Лайт Анархия
+              path: lait-anarkhiya
+              default: true
+              content:
+                directory: ./docs/lite-anarchy
+                language: ru
+        - type: section
+          key: section-4
+          title: Список изменений
+          path: lite-changelog
+          description: Последние изменения на режиме.
+          icon: rotate
+          children:
+            - type: space
+              key: space-4
+              title: Ченжлог (Лайт Анархия)
+              path: changelog
+              default: true
+              draft: true
+              content:
+                directory: ./changelogs/lite-anarchy
+    - type: section-group
+      key: section-group-2
+      title: Прайм Анархия
+      icon: gem
+      children:
+        - type: section
+          key: section-3
+          title: База знаний
+          path: prime
+          description: Подробная документация по режиму
+          icon: book-open-lines
+          children:
+            - type: space
+              key: space-3
+              title: Прайм Анархия
+              path: klassik-anarkhiya
+              default: true
+              content:
+                directory: ./docs/prime-anarchy
+                language: ru
+        - type: section
+          key: section-5
+          title: Список изменений
+          path: prime-changelog
+          description: Последние изменения на режиме
+          icon: rotate
+          children:
+            - type: space
+              key: space-5
+              title: Ченжлог (Прайм Анархия)
+              path: changelog
+              default: true
+              draft: true
+              content:
+                directory: ./changelogs/prime-anarchy
+    - type: section-group
+      key: section-group-3
+      title: Альфа SMP
+      icon: meteor
+      draft: true
+      children:
+        - type: section
+          key: section-6
+          title: База знаний
+          path: alpha-smp
+          description: Подробная документация по режиму
+          icon: book-open-lines
+          children:
+            - type: space
+              key: space-6
+              title: Альфа SMP
+              path: alfa-smp
+              default: true
+              content:
+                directory: ./docs/alpha-smp
+        - type: section
+          key: section-7
+          title: Список изменений
+          path: alpha-changelog
+          description: Последние изменения на режиме
+          icon: rotate
+          children:
+            - type: space
+              key: space-7
+              title: Ченжлог (Альфа SMP)
+              path: chenzhlog-alfa-smp
+              default: true
+              content:
+                directory: ./changelogs/alpha-smp
