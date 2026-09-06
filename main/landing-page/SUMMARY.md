@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Главная](README.md)
+* [Developer Platform](README.md)

@@ -1,12 +1,12 @@
 ---
-description: Добро пожаловать на официальную википедию HolyWorld.
+description: Welcome to your team’s developer platform
 cover: .gitbook/assets/banner_holyworld.png
 coverY: 0
 coverHeight: 427
 layout:
   width: wide
   cover:
-    visible: false
+    visible: true
     size: full
     mask: radial
   title:
