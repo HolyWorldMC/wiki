@@ -9,6 +9,7 @@ tags:
 
 Узнайте, что сделала наша команда по истечению прошлой недели.
 
+<details>
 <summary>Список изменений</summary>
 
 * Product improvement
