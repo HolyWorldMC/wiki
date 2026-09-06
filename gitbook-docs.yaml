@@ -32,10 +32,10 @@ site:
             - type: space
               key: space-2
               title: Лайт Анархия
-              path: lait-anarkhiya
+              path: lait-anarkhiya-1
               default: true
               content:
-                directory: ./docs/lite-anarchy
+                directory: ./lite/lait-anarkhiya-1
                 language: ru
         - type: section
           key: section-4
@@ -66,10 +66,10 @@ site:
             - type: space
               key: space-3
               title: Прайм Анархия
-              path: klassik-anarkhiya
+              path: praim-anarkhiya
               default: true
               content:
-                directory: ./docs/prime-anarchy
+                directory: ./prime/praim-anarkhiya
                 language: ru
         - type: section
           key: section-5
