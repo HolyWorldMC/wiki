@@ -1,0 +1,47 @@
+---
+description: Welcome to your team’s developer platform
+cover: .gitbook/assets/banner_holyworld.png
+coverY: 0
+coverHeight: 427
+layout:
+  width: wide
+  cover:
+    visible: true
+    size: full
+    mask: radial
+  title:
+    visible: false
+  description:
+    visible: false
+  tableOfContents:
+    visible: false
+  outline:
+    visible: false
+  pagination:
+    visible: false
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
+# Developer Platform
+
+<h2 align="center">Википедия HolyWorld</h2>
+
+**HolyWorld** — это один из самых популярных серверов Майнкрафт с тематикой анархии. Здесь вы можете делать почти что угодно: от простых убийств до захвата огромных баз с ресурсами. В игре вас ждут новые и увлекательные механики, которые изменят ваш игровой опыт.
+
+| Айпи адрес  | <p><code>mc.holyworld.ru</code> (Для игроков из России)</p><p><code>mc.holyworld.me</code> (Для игроков из других стран)</p> |
+| ----------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| Версия игры | от 1.16.5 до 1.21.11 Java                                                                                                    |
+
+### Режимы
+
+<table data-card-size="large" data-card-wrap="false" data-view="cards"><thead><tr><th align="center"></th><th align="center"></th><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td align="center"><strong>Лайт Анархия</strong></td><td align="center">Упрощенная Анархия, но с захватывающим развитием и увлекательным процессом.</td><td align="center"><a href="https://app.gitbook.com/o/xygQXcOI4MmaQlD2WaeB/s/dUjrpZZ2IIJeYTVyn1S1/" class="button secondary" data-icon="globe-pointer">Открыть википедию</a></td><td><a href="https://app.gitbook.com/o/xygQXcOI4MmaQlD2WaeB/s/dUjrpZZ2IIJeYTVyn1S1/">Лайт Анархия</a></td><td><a href=".gitbook/assets/ChatGPT Image 20 авг. 2026 г., 12_47_22.png">ChatGPT Image 20 авг. 2026 г., 12_47_22.png</a></td></tr><tr><td align="center"><strong>Прайм Анархия</strong></td><td align="center"></td><td align="center"><a href="https://app.gitbook.com/o/xygQXcOI4MmaQlD2WaeB/s/O5nDJxPj5M6bXHPtGJfj/" class="button secondary" data-icon="globe-pointer">Открыть википедию</a></td><td><a href="https://app.gitbook.com/o/xygQXcOI4MmaQlD2WaeB/s/O5nDJxPj5M6bXHPtGJfj/">Прайм Анархия</a></td><td><a href=".gitbook/assets/ChatGPT Image 20 авг. 2026 г., 12_45_38.png">ChatGPT Image 20 авг. 2026 г., 12_45_38.png</a></td></tr></tbody></table>
+
+### Ссылки на соцсети
+
+<table data-card-wrap="false" data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><p><i class="fa-globe-www">:globe-www:</i></p><p></p><p>Официальный сайт для покупки донат-привилегий: <a href="https://holyworld.me">holyworld.me</a></p></td><td></td><td><a href="https://holyworld.me/" class="button secondary" data-icon="globe-pointer">Открыть сайт</a></td><td><a href="https://holyworld.me/">https://holyworld.me/</a></td></tr><tr><td><p><i class="fa-telegram">:telegram:</i></p><p></p><p>Официальный новостной Телеграм-канал: <a href="https://t.me/holyworld">t.me/holyworld</a></p></td><td></td><td><a href="https://t.me/holyworld" class="button secondary" data-icon="telegram">Открыть Телеграм</a></td><td><a href="https://t.me/holyworld">https://t.me/holyworld</a></td></tr><tr><td><p><i class="fa-discord">:discord:</i></p><p></p><p>Официальный Discord-сервер: <a href="https://discord.gg/NM9jAxf46Z">discord.gg/NM9jAxf46Z</a></p></td><td></td><td><a href="https://discord.gg/NM9jAxf46Z" class="button secondary" data-icon="discord">Открыть Discord</a></td><td><a href="https://discord.gg/NM9jAxf46Z">https://discord.gg/NM9jAxf46Z</a></td></tr></tbody></table>
+
