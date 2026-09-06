@@ -26,7 +26,7 @@ layout:
 
 
 {% updates format="full" %}
-{% update date="2026-09-06" tags="feature,improvement,fix" %}
+{% update date="2026-09-06" tags="improvement,fix" %}
 ## Недельный дайджест
 
 Узнайте, что сделала наша команда по истечению прошлой недели.
