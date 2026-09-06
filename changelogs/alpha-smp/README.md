@@ -14,13 +14,13 @@ layout:
   description:
     visible: true
   tableOfContents:
-    visible: true
+    visible: false
   outline:
     visible: true
   pagination:
     visible: false
   metadata:
-    visible: false
+    visible: true
   tags:
     visible: true
   actions:
