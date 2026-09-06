@@ -89,7 +89,6 @@ site:
       key: section-group-3
       title: Альфа SMP
       icon: meteor
-      draft: true
       children:
         - type: section
           key: section-6
