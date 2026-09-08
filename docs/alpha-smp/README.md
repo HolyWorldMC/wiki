@@ -1,7 +1,14 @@
 ---
 icon: square-info
+cover: .gitbook/assets/banner_prime_2 (1).jpg
+coverY: 0
+coverHeight: 325
 layout:
   width: default
+  cover:
+    visible: true
+    size: full
+    mask: radial
   title:
     visible: true
   description:
