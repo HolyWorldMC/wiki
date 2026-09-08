@@ -1,6 +1,6 @@
 ---
 icon: square-info
-cover: .gitbook/assets/banner_prime_2 (1).jpg
+cover: .gitbook/assets/banner_prime_2.jpg
 coverY: 0
 coverHeight: 325
 layout:
@@ -32,4 +32,3 @@ layout:
 {% hint style="info" %}
 Статьи о режиме Альфа SMP уже совсем скоро будут здесь, стоит лишь немного подождать. А пока что можете посмотреть статьи про Прайм и Лайт Анархии.
 {% endhint %}
-
