@@ -50,6 +50,7 @@ site:
               title: Ченжлог (Лайт Анархия)
               path: chenzhlog-lait-anarkhiya
               default: true
+              hidden: true
               content:
                 directory: ./changelogs/lite-anarchy
                 language: ru
@@ -85,6 +86,7 @@ site:
               title: Ченжлог (Прайм Анархия)
               path: chenzhlog-praim-anarkhiya
               default: true
+              hidden: true
               content:
                 directory: ./changelogs/prime-anarchy
                 language: ru
