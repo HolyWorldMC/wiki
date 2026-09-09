@@ -1,6 +1,6 @@
 ---
 icon: square-info
-cover: .gitbook/assets/banner_prime_2.jpg
+cover: .gitbook/assets/photo_2026-09-10_01-21-23.jpg
 coverY: 0
 coverHeight: 325
 layout:
