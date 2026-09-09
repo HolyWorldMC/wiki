@@ -120,6 +120,7 @@ site:
               title: Ченжлог (Альфа SMP)
               path: chenzhlog-alfa-smp-1
               default: true
+              hidden: true
               content:
                 directory: ./changelogs/alpha-smp
                 language: ru
