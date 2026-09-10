@@ -1,7 +1,4 @@
 ---
-description: >-
-  Альфа SMP — выживание на одном острове, где нет Ада и Края. Базу нужно
-  оборонять и чинить, а снаряжение добывать в локациях.
 icon: meteor
 cover: .gitbook/assets/photo_2026-09-10_01-21-23.jpg
 coverY: 0
@@ -109,3 +106,4 @@ layout:
 ## Что почитать дальше
 
 <table data-card-wrap="false" data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Система приватов и рейдов</strong></td><td>Как поставить базу, чинить её и взрывать чужие.</td><td></td></tr><tr><td><strong>Локации</strong></td><td>Двенадцать структур острова, их мобы и добыча.</td><td></td></tr><tr><td><strong>Кровавая луна</strong></td><td>Ивент, во время которого охота выгоднее, а мобы сильнее.</td><td></td></tr></tbody></table>
+

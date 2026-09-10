@@ -59,7 +59,23 @@ icon: earth-europe
 
 <figure><img src="https://1639949389-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FlJRG84u5Trm5HJTxG951%2Fuploads%2FznnHHtOpvBKUm03Yijd5%2F2026-09-08_17.51.27.png?alt=media&#x26;token=c3d4a5e9-ecdc-44b4-bc28-5a386dd7fa5d" alt="" width="563"><figcaption></figcaption></figure>
 
-**Рассадники испытаний** – это особые спавнеры, расположенные внутри локаций. Они активируются при приближении игрока и выпускают несколько волн мобов. После прохождения испытания спавнер выдаёт ценный лут и уходит на перезарядку.
+**Рассадники испытаний** – это особые спавнеры, расположенные внутри локаций. Они активируются при приближении игрока и выпускают несколько волн мобов. После прохождения испытания спавнер выдаёт ценный лут и уходит на перезарядку.<br>
+
+## Утилизатор
+
+<figure><img src=".gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+
+В локациях можно встретить утилизатор - где вы можете переработать уже ненужные вещи: ваши инструменты, броню или оружие. Утилизатор перерабатывает ненужные предметы в исходный материал.&#x20;
+
+_Например,_\
+_Железные предметы - в железные слитки_\
+_Алмазные предметы - в алмазы_
+
+А также выпадают - <mark style="color:violet;">**аметисты**</mark>, которые вам понадобятся для прокачки утилизатора, спавнера, покупки новых слотов в эндер-сундуке и др. (см. главу _Аметисты_)
+
+<figure><img src=".gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><strong>Легкая локация</strong></td><td><ul><li>Спавн реже</li><li>КПД ниже</li></ul></td><td><a href=".gitbook/assets/2026-09-06_13.26.09.png">2026-09-06_13.26.09.png</a></td></tr><tr><td><strong>Сложная локация</strong></td><td><ul><li>Спавн чаще</li><li>КПД выше</li></ul></td><td><a href=".gitbook/assets/2026-09-06_13.28.41 (2).png">2026-09-06_13.28.41 (2).png</a></td></tr></tbody></table>
 
 ## Локации острова
 
