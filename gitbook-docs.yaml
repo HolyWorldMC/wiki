@@ -50,7 +50,6 @@ site:
               title: Ченжлог (Лайт Анархия)
               path: chenzhlog-lait-anarkhiya
               default: true
-              hidden: true
               content:
                 directory: ./changelogs/lite-anarchy
                 language: ru
