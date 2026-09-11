@@ -15,7 +15,7 @@ icon: face-angry-horns
 
 Спавнер собирается из <mark style="color:purple;">**8 фрагментов спавнера**</mark>, расположенных по кругу в верстаке.
 
-<figure><img src="https://1639949389-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FlJRG84u5Trm5HJTxG951%2Fuploads%2FYdhtdh454mDt22RXLS1t%2Fimage.png?alt=media&#x26;token=6ec1d3ed-876b-4539-9ec4-e18787117763" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/изображение (15).png" alt=""><figcaption></figcaption></figure>
 
 ### Где взять фрагменты
 
