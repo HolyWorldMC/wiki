@@ -6,7 +6,7 @@ description: >-
 icon: house-lock
 ---
 
-# Система приватов и рейдов
+# Система приватов
 
 **Приват** (регион) — это защищённая территория вокруг специального блока-ядра. Ядро хранит всю информацию о регионе и задаёт его размер, а блоки внутри региона со временем теряют прочность, поэтому базу нужно регулярно чинить и подпитывать ресурсами.
 
@@ -58,7 +58,9 @@ icon: house-lock
 
 ### Управление участниками
 
-<figure><img src=".gitbook/assets/изображение (9).png" alt=""><figcaption></figcaption></figure>
+
+
+<figure><img src=".gitbook/assets/members-menu.png" alt=""><figcaption></figcaption></figure>
 
 Участниками управляют через стойку для брони в меню региона.
 
@@ -71,13 +73,13 @@ icon: house-lock
 
 Каждый блок, поставленный в регионе, имеет свою прочность (HP) — чем больше HP, тем прочнее блок. Максимальная прочность зависит от материала блока. При установке блок получает 25% от максимальной прочности (железо — 10%), а дальше прочность со временем падает. Чтобы база не разрушилась, блоки нужно чинить: точечно кистью или сразу всем регионом.
 
-<figure><img src=".gitbook/assets/изображение (10).png" alt=""><figcaption><p>Слева - изначальное hp, справа - максимальное hp</p></figcaption></figure>
+<figure><img src=".gitbook/assets/изображение (18).png" alt=""><figcaption></figcaption></figure>
 
 ### Ремонтная кисть
 
 <mark style="color:orange;">**Ремонтная кисть**</mark> — инструмент для точечной починки, когда нужно восстановить конкретный блок. Кисть выдаётся над ядром при установке первого привата с момента вайпа, также её можно скрафтить самостоятельно.
 
-<figure><img src=".gitbook/assets/изображение (11).png" alt=""><figcaption><p>Крафт ремонтной кисти</p></figcaption></figure>
+<figure><img src=".gitbook/assets/craft-brush.png" alt=""><figcaption></figcaption></figure>
 
 {% stepper %}
 {% step %}
@@ -140,7 +142,7 @@ icon: house-lock
 
 Меню открывается правой кнопкой мыши по ядру или командой `/ps menu`.
 
-<figure><img src=".gitbook/assets/изображение (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/tooltip-telegram.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -166,7 +168,7 @@ icon: house-lock
 
 Аккаунт привязан, а в меню региона вместо барьера появится колокол.
 
-<figure><img src=".gitbook/assets/изображение (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/tooltip-telegram-linked.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
