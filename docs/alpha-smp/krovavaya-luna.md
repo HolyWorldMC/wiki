@@ -14,6 +14,8 @@ icon: moon
 * В чат приходит сообщение о начале события.
 * Вверху появляется боссбар с обратным отсчётом до конца Кровавой Луны.
 
+<figure><img src=".gitbook/assets/bloodmoon-bossbar.png" alt=""><figcaption></figcaption></figure>
+
 ## <mark style="color:red;">Что меняется во время ивента</mark>
 
 | Что меняется           | Как                                                                                         |

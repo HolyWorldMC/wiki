@@ -63,19 +63,19 @@ icon: earth-europe
 
 ## Утилизатор
 
-<figure><img src=".gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://1639949389-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FlJRG84u5Trm5HJTxG951%2Fuploads%2FLqgBuFTOd7Wn3CrGbJpz%2Fimage.png?alt=media&#x26;token=fdb2f945-9f8d-495f-bd3f-74279dde2368" alt=""><figcaption></figcaption></figure>
 
-В локациях можно встретить утилизатор - где вы можете переработать уже ненужные вещи: ваши инструменты, броню или оружие. Утилизатор перерабатывает ненужные предметы в исходный материал.&#x20;
+В локациях можно встретить утилизатор - где вы можете переработать уже ненужные вещи: ваши инструменты, броню или оружие. Утилизатор перерабатывает ненужные предметы в исходный материал.
 
 _Например,_\
-_Железные предметы - в железные слитки_\
-_Алмазные предметы - в алмазы_
+_&#x416;елезные предметы - в железные слитки_\
+_&#x410;лмазные предметы - в алмазы_
 
 А также выпадают - <mark style="color:violet;">**аметисты**</mark>, которые вам понадобятся для прокачки утилизатора, спавнера, покупки новых слотов в эндер-сундуке и др. (см. главу _Аметисты_)
 
-<figure><img src=".gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://1639949389-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FlJRG84u5Trm5HJTxG951%2Fuploads%2FTYvkvlO1ZBf8jfOJ8aLQ%2Fimage.png?alt=media&#x26;token=2ca99094-c304-4aac-bb59-f419d3e076f6" alt=""><figcaption></figcaption></figure>
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><strong>Легкая локация</strong></td><td><ul><li>Спавн реже</li><li>КПД ниже</li></ul></td><td><a href=".gitbook/assets/2026-09-06_13.26.09.png">2026-09-06_13.26.09.png</a></td></tr><tr><td><strong>Сложная локация</strong></td><td><ul><li>Спавн чаще</li><li>КПД выше</li></ul></td><td><a href=".gitbook/assets/2026-09-06_13.28.41 (2).png">2026-09-06_13.28.41 (2).png</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><strong>Легкая локация</strong></td><td><ul><li>Спавн реже</li><li>КПД ниже</li></ul></td><td><a href="https://1639949389-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FlJRG84u5Trm5HJTxG951%2Fuploads%2FZ6rxPtSbjk42xlSTYMXM%2F2026-09-06_13.26.09.png?alt=media&#x26;token=c810cca6-bc3c-4a36-9195-b2fe0dae6e81">https://1639949389-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FlJRG84u5Trm5HJTxG951%2Fuploads%2FZ6rxPtSbjk42xlSTYMXM%2F2026-09-06_13.26.09.png?alt=media&#x26;token=c810cca6-bc3c-4a36-9195-b2fe0dae6e81</a></td></tr><tr><td><strong>Сложная локация</strong></td><td><ul><li>Спавн чаще</li><li>КПД выше</li></ul></td><td><a href="https://1639949389-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FlJRG84u5Trm5HJTxG951%2Fuploads%2FPiCD6IEXZJnqubmn3UfY%2F2026-09-06_13.28.41.png?alt=media&#x26;token=63ab7ed5-4c8b-446e-baeb-665ae4b04384">https://1639949389-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FlJRG84u5Trm5HJTxG951%2Fuploads%2FPiCD6IEXZJnqubmn3UfY%2F2026-09-06_13.28.41.png?alt=media&#x26;token=63ab7ed5-4c8b-446e-baeb-665ae4b04384</a></td></tr></tbody></table>
 
 ## Локации острова
 
@@ -131,12 +131,12 @@ _Алмазные предметы - в алмазы_
 
 #### Утилизатор
 
-Перерабатывает инструменты, оружие и другие вещи, отдавая взамен ценные ресурсы. Стоит не на каждом маяке.
+Перерабатывает инструменты, оружие и другие вещи, отдавая взамен ценные ресурсы. Стоит не на каждом маяке. Указанный КПД — базовый, его можно поднять за аметисты (см. [Утилизатор](utilizator.md)). Указанный КПД — базовый, его можно поднять за аметисты (см. Утилизатор).
 
-| Вид маяка    | КПД утилизатора | Как часто встречается |
-| ------------ | --------------- | --------------------- |
-| **Водный**   | 30%             | Примерно на половине  |
-| **Неводный** | 25%             | Примерно на трети     |
+| Вид маяка    | Базовый КПД | Как часто встречается |
+| ------------ | ----------- | --------------------- |
+| **Водный**   | 30%         | Примерно на половине  |
+| **Неводный** | 25%         | Примерно на трети     |
 
 #### Контейнеры
 
@@ -171,7 +171,7 @@ _Алмазные предметы - в алмазы_
 
 #### Утилизатор
 
-КПД 33%. Стоит почти в каждой промзоне.
+Базовый КПД 33%. Стоит почти в каждой промзоне.
 
 ### <mark style="color:yellow;">Парящий Остров</mark> ★★☆☆☆
 
@@ -288,7 +288,7 @@ _Алмазные предметы - в алмазы_
 
 #### Утилизатор
 
-КПД 40%. Встречается примерно в половине шахт.
+Базовый КПД 40%. Встречается примерно в половине шахт.
 
 ### <mark style="color:purple;">Медный данж</mark> ★★★★★
 
@@ -317,7 +317,7 @@ _Алмазные предметы - в алмазы_
 
 #### Утилизатор
 
-КПД 45% — самый высокий на острове.
+Базовый КПД 45%. Стоит в большинстве данжей.
 
 ### <mark style="color:purple;">Бастион</mark> ★★★★★
 
@@ -363,7 +363,7 @@ _Алмазные предметы - в алмазы_
 
 #### Утилизатор
 
-КПД 45% — самый высокий на острове.
+Базовый КПД 45%. Стоит в большинстве Бастионов.
 
 ### <mark style="color:purple;">Крепость Энда</mark> ★★★★★
 
@@ -400,4 +400,4 @@ _Алмазные предметы - в алмазы_
 
 #### Утилизатор
 
-КПД 50% — самый высокий на острове.
+Базовый КПД 50% — самый высокий на острове. Стоит в большинстве Крепостей.
