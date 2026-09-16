@@ -24,3 +24,7 @@
 ## Интересное <a href="#interesting" id="interesting"></a>
 
 * [Гемы и Жетоны](interesting/donat_currency.md)
+
+## Для разработчиков <a href="#api" id="api"></a>
+
+* [REST API](api/rest-api.md)
