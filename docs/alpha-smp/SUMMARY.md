@@ -1,10 +1,26 @@
 # Table of contents
 
 * [О режиме Альфа SMP](README.md)
-* [Система приватов](sistema-privatov-i-reidov.md)
-* [Гниение и рейды приватов](gnienie-i-reidy-privatov.md)
+
+## Приваты
+
+* [Система приватов](privaty/sistema-privatov-i-reidov.md)
+* [Гниение и рейды приватов](privaty/gnienie-i-reidy-privatov.md)
+
+***
+
 * [Локации](lokacii.md)
-* [Аметисты](ametisty.md)
+
+## Ивенты
+
+* [Кровавая луна](iventy/krovavaya-luna.md)
+
+## Экономика
+
+* [Аметисты](ekonomika/ametisty.md)
+* [Купцы](ekonomika/kupcy.md)
+
+***
+
 * [Спавнер](spavner.md)
-* [Кровавая луна](krovavaya-luna.md)
 * [Утилизатор](utilizator.md)

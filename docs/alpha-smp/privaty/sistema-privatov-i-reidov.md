@@ -19,7 +19,7 @@ icon: house-lock
 * На количество установленных приватов действует лимит.
 * При установке ядро получает лишь 25% от максимального запаса прочности.
 
-<figure><img src=".gitbook/assets/изображение (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/изображение (8).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Границы своего региона можно увидеть командой `/ps glow`.
@@ -60,7 +60,7 @@ icon: house-lock
 
 
 
-<figure><img src=".gitbook/assets/members-menu.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/members-menu.png" alt=""><figcaption></figcaption></figure>
 
 Участниками управляют через стойку для брони в меню региона.
 
@@ -73,13 +73,13 @@ icon: house-lock
 
 Каждый блок, поставленный в регионе, имеет свою прочность (HP) — чем больше HP, тем прочнее блок. Максимальная прочность зависит от материала блока. При установке блок получает 25% от максимальной прочности (железо — 10%), а дальше прочность со временем падает. Чтобы база не разрушилась, блоки нужно чинить: точечно кистью или сразу всем регионом.
 
-<figure><img src=".gitbook/assets/изображение (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/изображение (18).png" alt=""><figcaption></figcaption></figure>
 
 ### Ремонтная кисть
 
 <mark style="color:orange;">**Ремонтная кисть**</mark> — инструмент для точечной починки, когда нужно восстановить конкретный блок. Кисть выдаётся над ядром при установке первого привата с момента вайпа, также её можно скрафтить самостоятельно.
 
-<figure><img src=".gitbook/assets/craft-brush.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/craft-brush.png" alt=""><figcaption></figcaption></figure>
 
 {% stepper %}
 {% step %}
@@ -110,13 +110,13 @@ icon: house-lock
 
 Глобальный ремонт — это массовая починка всех блоков региона. Откройте меню привата и наведите курсор на **наковальню**: там показана статистика прочности региона и ресурсы, необходимые для ближайшего шага ремонта. Если все ресурсы есть в инвентаре, глобальный ремонт увеличивает прочность всей базы на 2%.
 
-<figure><img src=".gitbook/assets/изображение (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/изображение (12).png" alt=""><figcaption></figcaption></figure>
 
 ## Питание региона
 
 Чтобы строить и ставить блоки внутри региона, его нужно **запитать**. Ресурсы кладутся в отдельный слот в меню привата, и пополнять его нужно постоянно.
 
-<figure><img src=".gitbook/assets/изображение (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/изображение (13).png" alt=""><figcaption></figcaption></figure>
 
 Сколько времени добавляет топливо, зависит от типа ядра:
 
@@ -142,7 +142,7 @@ icon: house-lock
 
 Меню открывается правой кнопкой мыши по ядру или командой `/ps menu`.
 
-<figure><img src=".gitbook/assets/tooltip-telegram.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/tooltip-telegram.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -168,7 +168,7 @@ icon: house-lock
 
 Аккаунт привязан, а в меню региона вместо барьера появится колокол.
 
-<figure><img src=".gitbook/assets/tooltip-telegram-linked.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/tooltip-telegram-linked.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 

@@ -1,13 +1,12 @@
 ---
-description: >-
-  Аметисты — главная валюта Альфа SMP. За них прокачивают спавнеры, открывают
-  крафты взрывчатки, покупают слоты в эндер-сундуке и товары у купцов.
 icon: sack-dollar
 ---
 
 # Аметисты
 
 <mark style="color:violet;">**Аметисты**</mark> — это **главная валюта** Альфа SMP. За них прокачивают спавнеры, открывают крафты взрывчатки, расширяют эндер-сундук и покупают товары у купцов.
+
+<figure><img src="../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
 
 ## Баланс и команды
 
@@ -50,13 +49,13 @@ icon: sack-dollar
 
 ### Прокачка спавнеров
 
-Каждая следующая ступень моба стоит аметистов и фрагментов [спавнера](spavner.md) одновременно — от <mark style="color:violet;">8 ❖</mark> за скелета до <mark style="color:violet;">235 ❖</mark> за крипера.
+Каждая следующая ступень моба стоит аметистов и фрагментов [спавнера](../spavner.md) одновременно — от <mark style="color:violet;">8 ❖</mark> за скелета до <mark style="color:violet;">235 ❖</mark> за крипера.
 
-<figure><img src=".gitbook/assets/изображение (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/изображение (17).png" alt=""><figcaption></figcaption></figure>
 
 ### Прокачка утилизатора
 
-КПД утилизатора поднимается за аметисты: девять уровней, от <mark style="color:violet;">1 ❖</mark> за первый до <mark style="color:violet;">2025 ❖</mark> за девятый. Все вместе дают +45% к КПД и обходятся в <mark style="color:violet;">4917 ❖</mark>. Подробности — в статье [Утилизатор](utilizator.md).
+КПД утилизатора поднимается за аметисты: девять уровней, от <mark style="color:violet;">1 ❖</mark> за первый до <mark style="color:violet;">2025 ❖</mark> за девятый. Все вместе дают +45% к КПД и обходятся в <mark style="color:violet;">4917 ❖</mark>. Подробности — в статье [Утилизатор](../utilizator.md).
 
 ### Слоты в эндер-сундуке
 
@@ -64,13 +63,13 @@ icon: sack-dollar
 
 
 
-<figure><img src=".gitbook/assets/tooltip-slot.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/tooltip-slot.png" alt=""><figcaption></figcaption></figure>
 
 ### Взрывчатка
 
 За аметисты открываются крафты взрывчатки: динамит, разрывные стрелы, C4 и трезубец-метатель. Аметисты идут и в сам рецепт: например, на трезубец уходит <mark style="color:violet;">25 ❖</mark>.
 
-<figure><img src=".gitbook/assets/tnt-menu.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/tnt-menu.png" alt=""><figcaption></figcaption></figure>
 
 ### Покупки у купцов
 
