@@ -15,7 +15,7 @@ icon: face-angry-horns
 
 Спавнер собирается из <mark style="color:purple;">**8 фрагментов спавнера**</mark>, расположенных по кругу в верстаке.
 
-<figure><img src=".gitbook/assets/craft-spawner.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/craft-spawner.png" alt=""><figcaption></figcaption></figure>
 
 ### Где взять фрагменты
 
@@ -37,7 +37,7 @@ icon: face-angry-horns
 
 
 
-<figure><img src=".gitbook/assets/spawner-menu.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/spawner-menu.png" alt=""><figcaption></figcaption></figure>
 
 | Ступень           | Фрагменты | Аметисты | Шанс успеха |
 | ----------------- | --------- | -------- | ----------- |
@@ -59,7 +59,7 @@ icon: face-angry-horns
 
 Открытые ступени не исчезают: спавнер выпускает всех разблокированных мобов вперемешку, но верхние выпадают чаще нижних. Заодно растёт и скорость — на первой ступени моб появляется раз в 12 секунд, на последней раз в 6.
 
-<figure><img src=".gitbook/assets/изображение (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/изображение (16).png" alt=""><figcaption></figcaption></figure>
 
 ## Заряд
 

@@ -1,20 +1,19 @@
 ---
-description: >-
-  Кровавая луна – это периодический ивент, когда мир становится опаснее, а охота
-  на мобов намного выгоднее, чем обычно. Кровавая луна идет в течение 15 минут.
 icon: moon
 ---
 
 # Кровавая луна
 
-<figure><img src="https://1639949389-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FlJRG84u5Trm5HJTxG951%2Fuploads%2FDpKoRKWqs47aMe62GvRW%2F2026-09-06_13.35.26.png?alt=media&#x26;token=afa25d2f-edaa-4206-9959-9f0980d1dd83" alt=""><figcaption><p>Рассадники испытаний светятся красным во время кровавой луны</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/bloodmoon-bossbar.png" alt=""><figcaption></figcaption></figure>
+
+<mark style="color:red;">**Кровавая луна**</mark> – это периодический ивент, когда мир становится опаснее, а охота на мобов намного выгоднее, чем обычно. Кровавая луна идет в течение **15 минут**.
 
 ## <mark style="color:red;">Как узнать о начале</mark>
 
 * В чат приходит сообщение о начале события.
 * Вверху появляется боссбар с обратным отсчётом до конца Кровавой Луны.
 
-<figure><img src="../.gitbook/assets/bloodmoon-bossbar.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://1639949389-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FlJRG84u5Trm5HJTxG951%2Fuploads%2FDpKoRKWqs47aMe62GvRW%2F2026-09-06_13.35.26.png?alt=media&#x26;token=afa25d2f-edaa-4206-9959-9f0980d1dd83" alt=""><figcaption><p>Рассадники испытаний светятся красным во время кровавой луны</p></figcaption></figure>
 
 ## <mark style="color:red;">Что меняется во время ивента</mark>
 
