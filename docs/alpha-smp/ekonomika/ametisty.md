@@ -55,7 +55,7 @@ icon: sack-dollar
 
 ### Прокачка утилизатора
 
-КПД утилизатора поднимается за аметисты: девять уровней, от <mark style="color:violet;">1 ❖</mark> за первый до <mark style="color:violet;">2025 ❖</mark> за девятый. Все вместе дают +45% к КПД и обходятся в <mark style="color:violet;">4917 ❖</mark>. Подробности — в статье [Утилизатор](../utilizator.md).
+КПД утилизатора поднимается за аметисты: девять уровней, от <mark style="color:violet;">1 ❖</mark> за первый до <mark style="color:violet;">2025 ❖</mark> за девятый. Все вместе дают +45% к КПД и обходятся в <mark style="color:violet;">4917 ❖</mark>. Подробности — в статье [Утилизатор](../pererabotka/utilizator.md).
 
 ### Слоты в эндер-сундуке
 

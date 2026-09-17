@@ -4,8 +4,8 @@
 
 ## Приваты
 
-* [Система приватов](privaty/sistema-privatov-i-reidov.md)
-* [Гниение и рейды приватов](privaty/gnienie-i-reidy-privatov.md)
+* [Создание и обслуживание](privaty/sistema-privatov-i-reidov.md)
+* [Гниение и рейды](privaty/gnienie-i-reidy.md)
 
 ***
 
@@ -14,6 +14,7 @@
 ## Ивенты
 
 * [Кровавая луна](iventy/krovavaya-luna.md)
+* [Теневой купец](iventy/tenevoi-kupec.md)
 
 ## Экономика
 
@@ -23,4 +24,8 @@
 ***
 
 * [Спавнер](spavner.md)
-* [Утилизатор](utilizator.md)
+
+## переработка
+
+* [Утилизатор](pererabotka/utilizator.md)
+* [Вещмешки](pererabotka/veshmeshki.md)
