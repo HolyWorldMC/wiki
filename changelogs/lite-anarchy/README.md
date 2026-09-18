@@ -47,7 +47,7 @@ layout:
 
 <figure><img src=".gitbook/assets/wipe.png" alt=""><figcaption></figcaption></figure>
 
-<a href="2026/2026-09-18.md" class="button primary">Читать подробнее</a><a href="https://wiki.holyworld.me/lite" class="button secondary">Документация</a>
+<a href="2026/wipe-2026-09-18.md" class="button primary">Читать подробнее</a><a href="https://wiki.holyworld.me/lite" class="button secondary">Документация</a>
 
 {% endupdate %}
 {% update date="2026-09-11" tags="improvement,fix" %}
