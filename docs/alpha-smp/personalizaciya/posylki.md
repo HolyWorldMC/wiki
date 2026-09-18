@@ -8,6 +8,8 @@ icon: hand-holding-box
 
 <figure><img src="../.gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>
 
+
+
 ### Как получить посылку
 
 * Посылки начисляются **за определенное наигранное время**, включая AFK, автоматически.
@@ -27,11 +29,11 @@ icon: hand-holding-box
 
 &#x20;    Если у вас есть в наличии накопленные посылки, нажмите на нужную посылку и она появится у вас в инвентаре.&#x20;
 
-{% hint style="info" %}
-Чтобы забрать все накопленные посылки – кликайте по ним столько раз, сколько их у вас.
-{% endhint %}
-
 <figure><img src="../.gitbook/assets/image (71).png" alt="" width="375"><figcaption></figcaption></figure>
+
+Содержание посылки можно узнать, кликнув **пкм**.
+
+<figure><img src="../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
 
 #### 3. Активируйте посылку
 
