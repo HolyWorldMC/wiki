@@ -49,13 +49,13 @@ icon: diamonds-4
 
 ### Прокачка спавнеров
 
-Каждая следующая ступень моба стоит аметистов и фрагментов [спавнера](../dobycha-resursov/spavner.md) одновременно — от <mark style="color:violet;">8 ❖</mark> за скелета до <mark style="color:violet;">235 ❖</mark> за крипера.
+Каждая следующая ступень моба стоит аметистов и фрагментов [спавнера](../prokachka/spavner.md) одновременно — от <mark style="color:violet;">8 ❖</mark> за скелета до <mark style="color:violet;">235 ❖</mark> за крипера.
 
 <figure><img src="../.gitbook/assets/изображение (17).png" alt=""><figcaption></figcaption></figure>
 
 ### Прокачка утилизатора
 
-КПД утилизатора поднимается за аметисты: девять уровней, от <mark style="color:violet;">1 ❖</mark> за первый до <mark style="color:violet;">2025 ❖</mark> за девятый. Все вместе дают +45% к КПД и обходятся в <mark style="color:violet;">4917 ❖</mark>. Подробности — в статье [Утилизатор](../pererabotka/utilizator.md).
+КПД утилизатора поднимается за аметисты: девять уровней, от <mark style="color:violet;">1 ❖</mark> за первый до <mark style="color:violet;">2025 ❖</mark> за девятый. Все вместе дают +45% к КПД и обходятся в <mark style="color:violet;">4917 ❖</mark>. Подробности — в статье [Утилизатор](../prokachka/utilizator.md).
 
 ### Слоты в эндер-сундуке
 
