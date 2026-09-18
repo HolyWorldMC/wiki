@@ -5,6 +5,7 @@
 ## Деньги и торговля <a href="#money" id="money"></a>
 
 * [Скупец](money/buyer.md)
+* [Барыга](money/baryga.md)
 * [Биржа](money/exchange.md)
 * [Аукцион](money/auction.md)
 
@@ -15,6 +16,7 @@
 * [Элементы](items/elements.md)
 * [Приваты](items/regions.md)
 * [Рассадники](items/spawners.md)
+* [Стаканье зелий](items/bottle.md)
 
 ## Мероприятия <a href="#events" id="events"></a>
 
@@ -23,6 +25,8 @@
 
 ## Интересное <a href="#interesting" id="interesting"></a>
 
+* [Поединки](interesting/battle.md)
+* [Режим шалкера](interesting/shulker_mode.md)
 * [Гемы и Жетоны](interesting/donat_currency.md)
 
 ## Для разработчиков <a href="#api" id="api"></a>
