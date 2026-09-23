@@ -2,6 +2,11 @@
 
 * [О режиме Альфа SMP](README.md)
 
+## старт
+
+* [Ответы на частые вопросы](start/otvety-na-chastye-voprosy.md)
+* [Навигатор](start/navigator.md)
+
 ## Приваты
 
 * [Создание и обслуживание](privaty/sistema-privatov-i-reidov.md)
@@ -21,6 +26,7 @@
 ## Ивенты
 
 * [Кровавая луна](iventy/krovavaya-luna.md)
+* [Грузы](iventy/gruzy.md)
 * [Теневой купец](iventy/tenevoi-kupec.md)
 
 ## прокачка
