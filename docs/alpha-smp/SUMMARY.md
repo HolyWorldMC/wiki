@@ -6,6 +6,7 @@
 
 * [Ответы на частые вопросы](start/otvety-na-chastye-voprosy.md)
 * [Навигатор](start/navigator.md)
+* [Карта](start/karta.md)
 
 ## Приваты
 
@@ -17,6 +18,14 @@
 
 * [Локации](dobycha-resursov/lokacii.md)
 * [Руды](dobycha-resursov/rudy.md)
+* [Посылки](dobycha-resursov/posylki.md)
+* [Зомби-игрок](dobycha-resursov/zombi-igrok.md)
+
+## прокачка
+
+* [Спавнер](prokachka/spavner.md)
+* [Утилизатор](prokachka/utilizator.md)
+* [Вещмешки](prokachka/veshmeshki.md)
 
 ## Экономика
 
@@ -28,13 +37,3 @@
 * [Кровавая луна](iventy/krovavaya-luna.md)
 * [Грузы](iventy/gruzy.md)
 * [Теневой купец](iventy/tenevoi-kupec.md)
-
-## прокачка
-
-* [Спавнер](prokachka/spavner.md)
-* [Утилизатор](prokachka/utilizator.md)
-* [Вещмешки](prokachka/veshmeshki.md)
-
-## персонализация
-
-* [Посылки](personalizaciya/posylki.md)
