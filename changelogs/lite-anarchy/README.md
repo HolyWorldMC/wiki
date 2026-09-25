@@ -30,6 +30,16 @@ layout:
 # Список изменений
 
 {% updates format="full" %}
+{% update date="2026-09-25" tags="improvement,fix" %}
+## Дайджест за 25/09/2026
+
+Узнайте, что сделала наша команда по истечению прошлой недели.
+
+<figure><img src=".gitbook/assets/weekly.png" alt=""><figcaption></figcaption></figure>
+
+<a href="2026/2026-09-25.md" class="button primary">Читать подробнее</a><a href="https://wiki.holyworld.me/lite" class="button secondary">Документация</a>
+
+{% endupdate %}
 {% update date="2026-09-18" tags="improvement,fix" %}
 ## Дайджест за 18/09/2026
 
