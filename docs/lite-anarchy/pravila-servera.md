@@ -10,3 +10,6 @@ description: В этом разделе Вы можете ознакомитьс
 <a href="https://docs.google.com/document/d/11oyRJ9N2QdX735M3ei4fdaOboTyUbzCUxuntIP1BIp8/edit?tab=t.0" class="button primary medium" data-icon="file">Документ с правилами сервера</a>
 {% endhint %}
 
+<!-- /lite:rules-start/ -->
+
+<!-- /lite:rules-stop/ -->
