@@ -1,6 +1,7 @@
 # Table of contents
 
 * [О режиме Альфа SMP](README.md)
+* [Правила сервера](pravila-servera.md)
 
 ## старт
 
