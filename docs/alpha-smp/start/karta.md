@@ -15,11 +15,18 @@ icon: map
 
 Карту можно посмотреть **на сайте** [**https://holyworld.ru/map**](https://holyworld.ru/map), не открывая игру, вам откроются главные локации Alpha SMP.
 
-<figure><img src="../.gitbook/assets/image (97).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (96).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Мод на карту Alpha SMP
 
-На карте в моде отображаются:
+Мод на карту можно скачать по ссылке:
+
+* **CurseForge** – [клик](https://www.curseforge.com/minecraft/mc-mods/alphamap)
+* **GitHub** – [клик](https://github.com/HolyWorldMC/AlphaMap/releases/tag/v1.3.0)
+
+По команде **/map** открывается карта мода.
+
+На карте в моде **отображаются**:
 
 * Локации острова
 * Ваши кровати
@@ -35,7 +42,7 @@ icon: map
 
 ### Горячие клавиши
 
-<table data-header-hidden><thead><tr><th width="158.09088134765625"></th><th></th></tr></thead><tbody><tr><td><strong>G</strong> (удержание)</td><td>Открыть большую карту</td></tr><tr><td><strong>H</strong></td><td>Открыть настройки карты</td></tr><tr><td><strong>Z</strong></td><td>Изменить масштаб миникарты</td></tr><tr><td><strong>B</strong></td><td>Поставить метку</td></tr></tbody></table>
+<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Все бинды можно поменять в настройках управления.

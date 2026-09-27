@@ -32,13 +32,13 @@ icon: sack
 Вещмешок сохраняет в себе:
 
 * **Количество** материала
-* **Зачарования**&#x20;
+* **Зачарования**
 
 <figure><img src="../.gitbook/assets/image (47).png" alt="" width="563"><figcaption></figcaption></figure>
 
 Вещмешок можно **пополнять** объединяя уже имеющийся с другими предметами этого материала
 
-<figure><img src="../.gitbook/assets/image (39).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (38).png" alt="" width="563"><figcaption></figcaption></figure>
 
 Вещмешок можно пополнять прямо в интентаре, как обычный мешок
 

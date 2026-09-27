@@ -9,7 +9,7 @@ icon: compass
 
 Заходя первый раз на остров, вы получаете особый предмет – <mark style="color:blue;">**навигатор**</mark>. С его помощью вы не заблудитесь и всегда сможете добраться до нужной локации. Вы можете забрать новый компас в инвентарь командой <mark style="color:blue;">**/gps**</mark>.
 
-<figure><img src="../.gitbook/assets/image (86).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (85).png" alt=""><figcaption></figcaption></figure>
 
 ### Как пользоваться GPS
 
@@ -27,7 +27,7 @@ icon: compass
 
 Команда /gps _{локация}_ изменит направление навигатора на другую нужную локацию.
 
-<div align="left"><figure><img src="../.gitbook/assets/image (75).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (74).png" alt="" width="375"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
