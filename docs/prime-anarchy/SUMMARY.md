@@ -1,7 +1,7 @@
 # Table of contents
 
 * [О режиме Прайм Анархия](README.md)
-* [Правила сервера](pravila-servera.md)
+* [Правила сервера](rules.md)
 
 ## Деньги и торговля <a href="#money" id="money"></a>
 
