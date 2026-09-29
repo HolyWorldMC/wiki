@@ -47,8 +47,3 @@ icon: map
 {% hint style="info" %}
 Все бинды можно поменять в настройках управления.
 {% endhint %}
-
-### Где скачать мод
-
-* **CurseForge** – [клик](https://www.curseforge.com/minecraft/mc-mods/alphamap)
-* **GitHub** – [клик](https://github.com/HolyWorldMC/AlphaMap/releases/tag/v1.3.0)

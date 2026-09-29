@@ -21,6 +21,7 @@
 * [Руды](dobycha-resursov/rudy.md)
 * [Посылки](dobycha-resursov/posylki.md)
 * [Зомби-игрок](dobycha-resursov/zombi-igrok.md)
+* [Киты](dobycha-resursov/kity.md)
 
 ## прокачка
 
