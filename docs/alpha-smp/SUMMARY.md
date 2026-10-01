@@ -5,6 +5,7 @@
 
 ## старт
 
+* [Как начать играть](start/kak-nachat-igrat.md)
 * [Ответы на частые вопросы](start/otvety-na-chastye-voprosy.md)
 * [Навигатор](start/navigator.md)
 * [Карта](start/karta.md)
