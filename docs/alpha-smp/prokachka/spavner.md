@@ -29,13 +29,11 @@ icon: face-angry-horns
 | Мрачная пещера, Заброшенная шахта   | 8          |
 | Медный данж, Бастион, Крепость Энда | 10         |
 
-А также <mark style="color:purple;">**фрагменты спавнера**</mark> могут выпать из контейнеров в локациях и в посылках.
+А также <mark style="color:purple;">**фрагменты спавнера**</mark> могут выпасть из контейнеров в локациях и в посылках.
 
 ## Прокачка спавнера
 
 Прокачка идёт по одиннадцати ступеням, от <mark style="color:cyan;">**Зомби**</mark> до <mark style="color:$success;">**Крипера**</mark>. Каждая следующая ступень стоит и <mark style="color:purple;">**фрагментов**</mark>, и <mark style="color:violet;">**аметистов**</mark> одновременно.
-
-
 
 <figure><img src="../.gitbook/assets/spawner-menu.png" alt=""><figcaption></figcaption></figure>
 
