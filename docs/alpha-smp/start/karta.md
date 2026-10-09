@@ -7,7 +7,7 @@ icon: map
 
 # Карта
 
-Карту можно открыть двумя способами: **прямо в игре через мод** или **на сайте** [**https://holyworld.ru/map**](https://holyworld.ru/map)**.**
+Карту можно открыть двумя способами: **на сайте** [**https://holyworld.ru/map**](https://holyworld.ru/map) и по команде <mark style="color:$primary;">**/map**</mark> прямо на острове.
 
 <figure><img src="../.gitbook/assets/image (92).png" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -24,7 +24,7 @@ icon: map
 * **CurseForge** – [клик](https://www.curseforge.com/minecraft/mc-mods/alphamap)
 * **GitHub** – [клик](https://github.com/HolyWorldMC/AlphaMap/releases/tag/v1.3.0)
 
-По команде **/map** открывается карта мода.
+**Открыть** карту можно, удерживая клавишу **G.**
 
 На карте в моде **отображаются**:
 
