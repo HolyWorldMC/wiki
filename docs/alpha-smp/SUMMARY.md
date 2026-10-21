@@ -14,6 +14,7 @@
 
 * [Создание и обслуживание](privaty/sistema-privatov-i-reidov.md)
 * [Гниение и рейды](privaty/gnienie-i-reidy.md)
+* [Рейд-блок](privaty/reid-blok.md)
 * [Кровати](privaty/krovati.md)
 
 ## добыча ресурсов
