@@ -20,7 +20,7 @@ icon: list-ol
 
 Из полученных ресурсов, скрафтите **простую броню и инструменты** на первое время.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
