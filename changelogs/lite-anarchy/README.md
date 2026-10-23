@@ -30,6 +30,16 @@ layout:
 # Список изменений
 
 {% updates format="full" %}
+{% update date="2026-10-23" tags="improvement,fix" %}
+## Дайджест за 23/10/2026
+
+Узнайте, что сделала наша команда по истечению прошлой недели.
+
+<figure><img src=".gitbook/assets/weekly.png" alt=""><figcaption></figcaption></figure>
+
+<a href="2026/2026-10-23-2.md" class="button primary">Читать подробнее</a><a href="https://wiki.holyworld.me/lite" class="button secondary">Документация</a>
+
+{% endupdate %}
 {% update date="23/10/2026 18:42:58" tags="feature" %}
 ## Вайп на режиме Лайт Анархия — 2026-10-23 17:00
 
