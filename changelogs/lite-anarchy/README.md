@@ -31,13 +31,13 @@ layout:
 
 {% updates format="full" %}
 {% update date="23/10/2026 18:42:58" tags="feature" %}
-## Вайп на режиме Лайт Анархия — 2026-10-24
+## Вайп на режиме Лайт Анархия — 2026-10-23 17:00
 
 На режиме **Лайт Анархия** прошёл вайп! Все новости и подробности — в нашем Telegram-канале: https://t.me/hwlite
 
 <figure><img src=".gitbook/assets/wipe.png" alt=""><figcaption></figcaption></figure>
 
-<a href="2026/2026-10-24.md" class="button primary">Читать подробнее</a><a href="https://wiki.holyworld.me/lite" class="button secondary">Документация</a>
+<a href="2026/2026-10-23.md" class="button primary">Читать подробнее</a><a href="https://wiki.holyworld.me/lite" class="button secondary">Документация</a>
 
 {% endupdate %}
 {% update date="2026-10-09" tags="improvement,fix" %}
