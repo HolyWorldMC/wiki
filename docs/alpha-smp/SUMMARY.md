@@ -29,12 +29,16 @@
 
 * [Спавнер](prokachka/spavner.md)
 * [Утилизатор](prokachka/utilizator.md)
-* [Вещмешки](prokachka/veshmeshki.md)
 
 ## Экономика
 
 * [Аметисты](ekonomika/ametisty.md)
 * [Купцы](ekonomika/kupcy.md)
+
+***
+
+* [Вещмешки](veshmeshki.md)
+* [Мешки лута](meshki-luta.md)
 
 ## Ивенты
 

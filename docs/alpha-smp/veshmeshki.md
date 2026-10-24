@@ -10,7 +10,7 @@ icon: sack
 **Изъять** броню или инструменты из вещмешка **нельзя** — он используется только для переработки.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
 
 ### Виды вещмешков
 
@@ -34,18 +34,18 @@ icon: sack
 * **Количество** материала
 * **Зачарования**
 
-<figure><img src="../.gitbook/assets/image (47).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (47).png" alt="" width="563"><figcaption></figcaption></figure>
 
 Вещмешок можно **пополнять** объединяя уже имеющийся с другими предметами этого материала
 
-<figure><img src="../.gitbook/assets/image (38).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (38).png" alt="" width="563"><figcaption></figcaption></figure>
 
 Вещмешок можно пополнять прямо в интентаре, как обычный мешок
 
-<figure><img src="../.gitbook/assets/image (45).png" alt="" width="240"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (45).png" alt="" width="240"><figcaption></figcaption></figure>
 
 ### Переработка в утилизаторе
 
 Вещмешок можно переработать в **любом утилизаторе**, которые находятся в локациях, получив переработанный материал и часто <mark style="color:violet;">**аметисты**</mark>.
 
-<figure><img src="../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
