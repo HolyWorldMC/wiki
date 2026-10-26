@@ -4,6 +4,8 @@
 
 ## Где получить Тыковки?
 
+<div data-with-frame="true"><figure><img src=".gitbook/assets/halloween_pumpkin.png" alt=""><figcaption></figcaption></figure></div>
+
 Тыковки можно найти, посещая и участвуя в ивентах: Груз, Сокровищница, Тыпо, Посылка, Корабль, Цветочной поляне, Золотой лихорадка, Кубик.
 
 {% hint style="info" %}
