@@ -33,7 +33,7 @@ layout:
 {% update date="2026-10-23" tags="improvement,fix" %}
 ## Дайджест за 23/10/2026
 
-Узнайте, что сделала наша команда по истечению прошлой недели.
+Узнайте, что сделала наша команда за прошлую неделю.
 
 <figure><img src=".gitbook/assets/weekly.png" alt=""><figcaption></figcaption></figure>
 
@@ -53,7 +53,7 @@ layout:
 {% update date="2026-10-09" tags="improvement,fix" %}
 ## Дайджест за 09/10/2026
 
-Узнайте, что сделала наша команда по истечению прошлой недели.
+Узнайте, что сделала наша команда за прошлую неделю.
 
 <figure><img src=".gitbook/assets/weekly.png" alt=""><figcaption></figcaption></figure>
 
@@ -63,7 +63,7 @@ layout:
 {% update date="2026-10-02" tags="improvement,fix" %}
 ## Дайджест за 02/10/2026
 
-Узнайте, что сделала наша команда по истечению прошлой недели.
+Узнайте, что сделала наша команда за прошлую неделю.
 
 <figure><img src=".gitbook/assets/weekly.png" alt=""><figcaption></figcaption></figure>
 
@@ -73,7 +73,7 @@ layout:
 {% update date="2026-09-25" tags="improvement,fix" %}
 ## Дайджест за 25/09/2026
 
-Узнайте, что сделала наша команда по истечению прошлой недели.
+Узнайте, что сделала наша команда за прошлую неделю.
 
 <figure><img src=".gitbook/assets/weekly.png" alt=""><figcaption></figcaption></figure>
 
@@ -83,7 +83,7 @@ layout:
 {% update date="2026-09-18" tags="improvement,fix" %}
 ## Дайджест за 18/09/2026
 
-Узнайте, что сделала наша команда по истечению прошлой недели.
+Узнайте, что сделала наша команда за прошлую неделю.
 
 <figure><img src=".gitbook/assets/weekly.png" alt=""><figcaption></figcaption></figure>
 
@@ -103,7 +103,7 @@ layout:
 {% update date="2026-09-11" tags="improvement,fix" %}
 ## Дайджест за 11/09/2026
 
-Узнайте, что сделала наша команда по истечению прошлой недели.
+Узнайте, что сделала наша команда за прошлую неделю.
 
 <figure><img src=".gitbook/assets/weekly.png" alt=""><figcaption></figcaption></figure>
 
