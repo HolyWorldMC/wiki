@@ -11,7 +11,7 @@ icon: hand-holding-box
 ### Как получить посылку
 
 * Посылки начисляются **за определенное наигранное время**, включая AFK, автоматически.
-* Время до следующей посылки отображается в **борде**.
+* Время до следующей посылки отображается на **боковой панели**.
 
 <figure><img src="../.gitbook/assets/image (66).png" alt=""><figcaption></figcaption></figure>
 
@@ -30,7 +30,7 @@ icon: hand-holding-box
 
 <figure><img src="../.gitbook/assets/image (71).png" alt="" width="375"><figcaption></figcaption></figure>
 
-Содержание посылки можно узнать, кликнув **пкм**.
+Содержание посылки можно узнать, кликнув **ПКМ**.
 
 <figure><img src="../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
 

@@ -26,13 +26,16 @@ icon: ranking-star
 
 ### Какие приваты есть?
 
-Есть **три типа** [<mark style="color:cyan;">**приватов**</mark>](../privaty/sistema-privatov-i-reidov.md). Они отличаются размером, прочностью и ресурсом для питания. Чем больше приват, тем дороже его питать, но тем надёжнее защита базы.\
+Есть **три типа** [<mark style="color:cyan;">**приватов**</mark>](../privaty/sistema-privatov-i-reidov.md). Они отличаются размером, прочностью и ресурсом для питания. Чем больше приват, тем дороже его питать, но тем надёжнее защита базы.
+
 <mark style="background-color:blue;">Железный блок</mark> – самый маленький\
 **500 НР**\
-Питается <mark style="color:$info;">**железными слитками**</mark>\
+Питается <mark style="color:$info;">**железными слитками**</mark>
+
 <mark style="background-color:cyan;">Алмазный блок</mark> – средний\
 **2500 НР**\
-Питается <mark style="color:cyan;">**алмазами**</mark>\
+Питается <mark style="color:cyan;">**алмазами**</mark>
+
 <mark style="background-color:$info;">Незеритовый блок</mark> – самый мощный\
 **12 500 НР**\
 Питается **незеритовыми слитками**.
