@@ -42,7 +42,7 @@ icon: display-chart-up-circle-currency
 В главном меню Биржи заявки сортируются по выгодности: в первую очередь отображаются те, в которых за один жетон предлагается наибольшее количество монеток.
 {% endhint %}
 
-## Как обменять монетки на коины
+## Как обменять монетки на жетоны
 
 <div data-with-frame="true"><figure><img src="../.gitbook/assets/exchange_sell (2).png" alt=""><figcaption></figcaption></figure></div>
 
