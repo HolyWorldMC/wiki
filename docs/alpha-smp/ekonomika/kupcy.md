@@ -12,9 +12,9 @@ icon: right-left
 ## Купцы в локациях
 
 Купец стоит в разных локациях на одном и том же месте.\
-Над купцом высвечивается название лавки, например, <mark style="color:$warning;">**Купец Мельницы**</mark><br>
+Над купцом высвечивается название лавки, например, <mark style="color:$warning;">**Купец Мельницы**</mark>
 
-<figure><img src="../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (119).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ## Как торговать
 
