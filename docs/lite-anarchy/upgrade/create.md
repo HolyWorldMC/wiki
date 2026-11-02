@@ -24,8 +24,8 @@
 
 <summary>Этапы улучшения Снаряжения</summary>
 
-* Меч Griefer ⭢ Меч Mustang ⭢ Меч Ghast ⭢ Меч Wither ⭢ Меч Kraken ⭢ Меч Kraken ⭢ Меч Stinger ⭢ Меч Eternity.
-* Лук Griefer ⭢ Лук Mustang ⭢ Лук Ghast ⭢ Лук Wither ⭢ Лук Kraken ⭢ Лук Kraken ⭢ Лук Stinger ⭢ Лук Eternity.
+* Меч Griefer ⭢ Меч Mustang ⭢ Меч Ghast ⭢ Меч Wither ⭢ Меч Kraken ⭢ Меч Kraken ⭢ Меч Dragon ⭢ Меч Stinger ⭢ Меч Eternity.
+* Лук Griefer ⭢ Лук Mustang ⭢ Лук Ghast ⭢ Лук Wither ⭢ Лук Kraken ⭢ Лук Kraken ⭢ Лук Dragon ⭢ Лук Stinger ⭢ Лук Eternity.
 * Арбалет Dragon ⭢ Арбалет Stinger ⭢ Арбалет Eternity.
 
 </details>
@@ -34,7 +34,7 @@
 
 <summary>Этапы улучшения Брони</summary>
 
-* Броня Griefer ⭢ Броня Mustang ⭢ Броня Ghast ⭢ Броня Wither ⭢ Броня Kraken ⭢ Броня Kraken ⭢ Броня Stinger ⭢ Броня Eternity ⭢ Броня Infinity.
+* Броня Griefer ⭢ Броня Mustang ⭢ Броня Ghast ⭢ Броня Wither ⭢ Броня Kraken ⭢ Броня Kraken ⭢ Броня Dragon ⭢ Броня Stinger ⭢ Броня Eternity ⭢ Броня Infinity.
 
 {% hint style="info" %}
 Любую часть брони: ботинки, поножи, нагрудник и шлем, можно улучшить.
@@ -46,9 +46,9 @@
 
 <summary>Этапы улучшения Инструментов</summary>
 
-* Кирка Griefer ⭢ Кирка Mustang ⭢ Кирка Ghast ⭢ Кирка Wither ⭢ Кирка Kraken ⭢ Кирка Kraken ⭢ Кирка Stinger ⭢ Кирка Eternity.
-* Топор Griefer ⭢ Топор Mustang ⭢ Топор Ghast ⭢ Топор Wither ⭢ Топор Kraken ⭢ Топор Kraken ⭢ Топор Stinger ⭢ Топор Eternity.
-* Топор Griefer ⭢ Топор Mustang ⭢ Топор Ghast ⭢ Топор Wither ⭢ Топор Kraken ⭢ Топор Kraken ⭢ Топор Stinger ⭢ Топор Eternity.
+* Кирка Griefer ⭢ Кирка Mustang ⭢ Кирка Ghast ⭢ Кирка Wither ⭢ Кирка Kraken ⭢ Кирка Kraken ⭢ Кирка Dragon ⭢ Кирка Stinger ⭢ Кирка Eternity.
+* Топор Griefer ⭢ Топор Mustang ⭢ Топор Ghast ⭢ Топор Wither ⭢ Топор Kraken ⭢ Топор Kraken ⭢ Топор Dragon ⭢ Топор Stinger ⭢ Топор Eternity.
+* Топор Griefer ⭢ Топор Mustang ⭢ Топор Ghast ⭢ Топор Wither ⭢ Топор Kraken ⭢ Топор Kraken ⭢ Топор Dragon ⭢ Топор Stinger ⭢ Топор Eternity.
 
 </details>
 
