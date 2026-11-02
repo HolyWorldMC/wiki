@@ -6,7 +6,6 @@
 ## Деньги и торговля <a href="#money" id="money"></a>
 
 * [Скупец](money/buyer.md)
-* [Барыга](money/baryga.md)
 * [Биржа](money/exchange.md)
 * [Аукцион](money/auction.md)
 
