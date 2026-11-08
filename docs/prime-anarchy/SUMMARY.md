@@ -25,6 +25,7 @@
 
 ## Интересное <a href="#interesting" id="interesting"></a>
 
+* [ПраймПасс](interesting/primepass.md)
 * [Поединки](interesting/battle.md)
 * [Режим шалкера](interesting/shulker_mode.md)
 * [Гемы и Жетоны](interesting/donat_currency.md)
