@@ -27,7 +27,7 @@ layout:
 
 **Лайт Анархия** — это упрощенная Анархия, но с захватывающим развитием и увлекательным процессом. Здесь можно полностью уничтожать регионы, получать невозможные зачарования, приобретать донат с топовым набором и соревноваться с лучшими игроками.
 
-<table data-header-hidden data-header-sticky><thead><tr><th width="202"></th><th></th></tr></thead><tbody><tr><td>IP-адрес</td><td><code>mc.holyworld.ru</code> (Для игроков из России)<br><code>mc.holyworld.me</code> (Для игроков из других стран)</td></tr><tr><td>Версия игры</td><td>1.16.5-26.3</td></tr></tbody></table>
+<table data-header-hidden data-header-sticky><thead><tr><th width="202"></th><th></th></tr></thead><tbody><tr><td>IP-адрес</td><td><code>mc.holyworld.ru</code> (Для игроков из СНГ)<br><code>mc.holyworld.me</code> (Для игроков из других стран)</td></tr><tr><td>Версия игры</td><td>1.16.5-26.3</td></tr></tbody></table>
 
 ## Особенности Лайт Анархии
 
