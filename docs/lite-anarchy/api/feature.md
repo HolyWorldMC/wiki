@@ -1,4 +1,8 @@
-# 🎛️ In-Game API: Feature Control
+---
+icon: gear-api
+---
+
+# In-Game API: Feature Control
 
 Канал: **`liteapi:feature-control`**
 

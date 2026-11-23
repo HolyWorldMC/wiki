@@ -1,8 +1,9 @@
 ---
 description: В этом разделе Вы можете ознакомиться с правилами режима Лайт Анархия.
+icon: file-lines
 ---
 
-# 📄 Правила сервера
+# Правила сервера
 
 {% hint style="warning" %}
 Данный свод правил применяется к режиму «Лайт Анархия», на других режимах правила могут отличаться.
@@ -11,8 +12,6 @@ description: В этом разделе Вы можете ознакомитьс
 <details>
 
 <summary>Основные положения</summary>
-
-
 
 1.1 Использование любых функций проекта означает полное согласие с настоящими правилами. Владелец аккаунта несёт полную ответственность за его безопасность и действия, совершаемые с его использованием.
 
@@ -130,7 +129,7 @@ description: В этом разделе Вы можете ознакомитьс
 {% endhint %}
 
 {% hint style="info" %}
-Если вы когда-то играли с запрещённым ПО, но встали на путь исправления, ознакомьтесь с руководством по очистке от читов — [https://mods.holyworld.me/how-to-delete-cheats-from-pc](https://mods.holyworld.me/how-to-delete-cheats-from-pc) <br>
+Если вы когда-то играли с запрещённым ПО, но встали на путь исправления, ознакомьтесь с руководством по очистке от читов — [https://mods.holyworld.me/how-to-delete-cheats-from-pc](https://mods.holyworld.me/how-to-delete-cheats-from-pc)<br>
 {% endhint %}
 
 {% hint style="info" %}
@@ -196,7 +195,7 @@ description: В этом разделе Вы можете ознакомитьс
 {% endhint %}
 
 {% hint style="info" %}
-Проверка проводится при помощи AnyDesk — [https://anydesk.com/](https://anydesk.com/) | RustDesk — [https://rustdesk.com/](https://rustdesk.com/)  | RuDesktop — [https://rudesktop.ru/](https://rudesktop.ru/) | TrustViewer - [https://trustviewer.com](https://trustviewer.com)
+Проверка проводится при помощи AnyDesk — [https://anydesk.com/](https://anydesk.com/) | RustDesk — [https://rustdesk.com/](https://rustdesk.com/) | RuDesktop — [https://rudesktop.ru/](https://rudesktop.ru/) | TrustViewer - [https://trustviewer.com](https://trustviewer.com)
 {% endhint %}
 
 {% hint style="info" %}
@@ -230,7 +229,7 @@ description: В этом разделе Вы можете ознакомитьс
 2.5.4 Очистка системы
 
 {% hint style="info" %}
-Запрещается заранее очищать: папку .minecraft, корзину, загрузки, prefetch, shellbag, JournalTrace, recent и так далее.&#x20;
+Запрещается заранее очищать: папку .minecraft, корзину, загрузки, prefetch, shellbag, JournalTrace, recent и так далее.
 {% endhint %}
 
 {% hint style="info" %}

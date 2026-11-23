@@ -1,4 +1,5 @@
 ---
+icon: gear-api
 layout:
   width: wide
   title:
@@ -17,9 +18,11 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
-# 🌐 REST API
+# REST API
 
 Публичный REST API для разработчиков.
 

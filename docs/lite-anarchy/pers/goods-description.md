@@ -1,4 +1,8 @@
-# 🛒 Описание товаров
+---
+icon: basket-shopping
+---
+
+# Описание товаров
 
 <div data-with-frame="true"><figure><img src="../.gitbook/assets/goods-priv.png" alt=""><figcaption></figcaption></figure></div>
 

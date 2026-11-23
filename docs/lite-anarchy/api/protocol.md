@@ -1,4 +1,5 @@
 ---
+icon: gear-api
 layout:
   width: wide
   title:
@@ -17,9 +18,11 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
-# 🔌 In-Game API
+# In-Game API
 
 Документация для разработчиков клиентских модов.
 

@@ -1,4 +1,5 @@
 ---
+icon: square-info
 layout:
   width: default
   title:
@@ -21,7 +22,7 @@ layout:
     visible: true
 ---
 
-# 🌎 О режиме Лайт Анархия
+# О режиме Лайт Анархия
 
 ## Что за Лайт Анархия?
 
